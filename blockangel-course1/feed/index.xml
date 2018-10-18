@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>「專屬女性的區塊鏈入門課程」的迴響</title>
+	<atom:link href="https://jiaty.github.io/ZoeHou/blockangel-course1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jiaty.github.io/ZoeHou/blockangel-course1/</link>
+	<description>同理心拯救世界</description>
+	<lastBuildDate>Fri, 05 Oct 2018 01:52:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>由：Hou JiaRou</title>
+		<link>https://jiaty.github.io/ZoeHou/blockangel-course1/#comment-280</link>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+		<pubDate>Fri, 05 Oct 2018 01:52:02 +0000</pubDate>
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=624#comment-280</guid>
+		<description><![CDATA[阿~Raisy本人出現了&gt;&lt;
+非常感謝Raisy的無私分享，上面很多觀念的釐清都仰賴當時QA時間的討論~
+期待接下來的聚會!]]></description>
+		<content:encoded><![CDATA[<p>阿~Raisy本人出現了><
+非常感謝Raisy的無私分享，上面很多觀念的釐清都仰賴當時QA時間的討論~
+期待接下來的聚會!
+</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>由：Raisy</title>
+		<link>https://jiaty.github.io/ZoeHou/blockangel-course1/#comment-278</link>
+		<dc:creator><![CDATA[Raisy]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2018 05:38:08 +0000</pubDate>
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=624#comment-278</guid>
+		<description><![CDATA[你怎麼那麼棒！]]></description>
+		<content:encoded><![CDATA[<p>你怎麼那麼棒！</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

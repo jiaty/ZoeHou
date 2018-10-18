@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Adobe XD &#8211; Jiaty</title>
+	<atom:link href="https://jiaty.github.io/ZoeHou/category/adobe-xd/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jiaty.github.io/ZoeHou/</link>
+	<description>同理心拯救世界</description>
+	<lastBuildDate>Tue, 09 Oct 2018 14:19:06 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/cropped-Jiaty_shorthair-1-32x32.png</url>
+	<title>Adobe XD &#8211; Jiaty</title>
+	<link>https://jiaty.github.io/ZoeHou/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136880357</site>	<item>
+		<title>Adobe XD 入門教學</title>
+		<link>https://jiaty.github.io/ZoeHou/adobe-xd-tutorial/</link>
+		<comments>https://jiaty.github.io/ZoeHou/adobe-xd-tutorial/#respond</comments>
+		<pubDate>Wed, 29 Aug 2018 00:30:17 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[Adobe XD]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Prototype]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[XD]]></category>
+		<category><![CDATA[教學]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=562</guid>
+		<description><![CDATA[<p>2018年中旬Adobe宣布XD免費！ Adobe XD CC Starter版本具備正式 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/adobe-xd-tutorial/">Adobe XD 入門教學</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<div id="pl-562"  class="panel-layout" ><div id="pg-562-0"  class="panel-grid panel-no-style" ><div id="pgc-562-0-0"  class="panel-grid-cell" ><div id="panel-562-0-0-0" class="so-panel widget widget_media_image panel-first-child" data-index="0" ><img width="1919" height="910" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD官網.png" class="image wp-image-564  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD官網.png 1919w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD官網-300x142.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD官網-768x364.png 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD官網-1024x486.png 1024w" sizes="(max-width: 1919px) 100vw, 1919px" /></div><div id="panel-562-0-0-1" class="so-panel widget widget_text" data-index="1" >			<div class="textwidget"><p>2018年中旬Adobe宣布XD<span style="color: #00a5af; font-weight: bold;">免費</span>！<br />
+Adobe XD CC Starter版本具備正式版的相同功能，並且沒有什麼試用30天的時間限制。</p>
+</div>
+		</div><div id="panel-562-0-0-2" class="so-panel widget widget_text" data-index="2" >			<div class="textwidget"><hr />
+<p><span style="font-size: 2em; font-weight: bold; line-height: 2em;">We believe Adobe XD will be as big as Photoshop, if not bigger.</span> <span style="font-size: 0.8em; color: #a0a0a0;">(我們相信XD將會像PS一樣強大，如果沒有，那就是更大。)</span></p>
+<p style="text-align: right;">-Scott Belsky, Chief Product Officer &amp; Executive Vice President, Adobe</p>
+<hr />
+</div>
+		</div><div id="panel-562-0-0-3" class="so-panel widget widget_text" data-index="3" >			<div class="textwidget"><p>這邊其實關連到前陣子新釋出的功能：目前AdobePhotoshop檔案(.psd)<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/icon_psdfile.png" alt="" width="28" height="28" />是可以直接使用AdobeXD應用程式開啟的。</p>
+<p>在AdobeXD問世(2017)之前，Mac OS用戶使用Sketch<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/icon_sketch.png" alt="" width="28" height="28" />製作軟體介面設計，而Windows用戶則主要使用Photoshop<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/icon_AdobePhotoshop.png" alt="" width="28" height="28" />來製作設計。</p>
+</div>
+		</div><div id="panel-562-0-0-4" class="so-panel widget widget_text" data-index="4" >			<div class="textwidget"><p>AdobeXD目前鎖定的目標用戶有兩類：<span style="color: #b5495b; font-weight: bold;">(1)原PS UI設計者</span>、<span style="color: #b5495b; font-weight: bold;">(2)UI/UX入門者</span>。<br />
+因此，<span style="color: #b5495b; font-weight: bold;">降低新舊轉移成本</span>和<span style="color: #b5495b; font-weight: bold;">最低化進入門檻</span>是XD目前的主要特色。<br />
+對原PS使用者而言，舊專案可直接匯入，且所有圖層和操作習慣都相似，這就是新舊的無痛轉移阿。</p>
+</div>
+		</div><div id="panel-562-0-0-5" class="so-panel widget widget_text" data-index="5" >			<div class="textwidget"><p>那進入門檻到底有多低呢？<br />
+如果沒有用過Adobe系列任何一項產品是否有機會？</p>
+<p><span style="font-size: 1.5em; font-weight: bold; line-height: 1.5em;">Ans: 很低，可以的。</span></p>
+<p>下列讓我來帶您導覽一下XD的基本操作，不管你有沒有美術天分或介面設計概念，只要會用滑鼠和鍵盤，就可以建立你的第一個APP Prototype。</p>
+</div>
+		</div><div id="panel-562-0-0-6" class="so-panel widget widget_media_image" data-index="6" ><div class="StartImg panel-widget-style panel-widget-style-for-562-0-0-6" ><img width="600" height="300" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Custom-Size-–-1-768x384.jpg" class="image wp-image-579  attachment-600x300 size-600x300" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Custom-Size-–-1-768x384.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Custom-Size-–-1-300x150.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Custom-Size-–-1.jpg 800w" sizes="(max-width: 600px) 100vw, 600px" /></div></div><div id="panel-562-0-0-7" class="so-panel widget widget_text" data-index="7" >			<div class="textwidget"><p><a href="https://creative.adobe.com/zh-tw/products/download/xd?promoid=B8NR3RT1&amp;mv=other" target="_blank" rel="noopener" style="color: #924851;">下載安裝</a>好AdobeXD<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/icon_adobexd.png" alt="" width="28" height="28" />之後，開啟應用程式你會看到下面這個畫面。</p>
+</div>
+		</div><div id="panel-562-0-0-8" class="so-panel widget widget_media_image" data-index="8" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-8" ><img width="1002" height="801" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_initial.png" class="image wp-image-580  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_initial.png 1002w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_initial-300x240.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_initial-768x614.png 768w" sizes="(max-width: 1002px) 100vw, 1002px" /></div></div><div id="panel-562-0-0-9" class="so-panel widget widget_text" data-index="9" >			<div class="textwidget"><p>點選左下角的<span style="color: #00a5af; font-weight: bold;">Begin Tutorial</span>按鈕即可開啟教學檔案，進入下面這個畫面。</p>
+</div>
+		</div><div id="panel-562-0-0-10" class="so-panel widget widget_media_image" data-index="10" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-10" ><img width="1920" height="1030" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_tutorial.png" class="image wp-image-576  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_tutorial.png 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_tutorial-300x161.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_tutorial-768x412.png 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_tutorial-1024x549.png 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></div></div><div id="panel-562-0-0-11" class="so-panel widget widget_text" data-index="11" >			<div class="textwidget"><p>首先，先來介紹基本操作：</p>
+</div>
+		</div><div id="panel-562-0-0-12" class="so-panel widget widget_media_image" data-index="12" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-12" ><img width="2816" height="520" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Navigating-Adobe-XD.png" class="image wp-image-583  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Navigating-Adobe-XD.png 2816w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Navigating-Adobe-XD-300x55.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Navigating-Adobe-XD-768x142.png 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Navigating-Adobe-XD-1024x189.png 1024w" sizes="(max-width: 2816px) 100vw, 2816px" /></div></div><div id="panel-562-0-0-13" class="so-panel widget widget_text" data-index="13" >			<div class="textwidget"><p><span style="font-weight: bold;">(1) 視角縮放</span><br />
+點選鍵盤上的  <span style="background-color: #e4e4e4; color: #666666;">Ctrl</span> 或 <span style="background-color: #e4e4e4; color: #666666;">Alt</span>  加上  <span style="background-color: #e4e4e4; color: #666666;">+/-</span> 或 <span style="background-color: #e4e4e4; color: #666666;">滑鼠滾輪</span>。</p>
+</div>
+		</div><div id="panel-562-0-0-14" class="so-panel widget widget_media_image" data-index="14" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-14" ><img width="779" height="421" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_zoom.gif" class="image wp-image-584  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div></div><div id="panel-562-0-0-15" class="so-panel widget widget_text" data-index="15" >			<div class="textwidget"><p><span style="font-weight: bold;">(2) 移動視角</span><br />
+點選鍵盤上的 <span style="background-color: #e4e4e4; color: #666666;">空白鍵</span> 加上 <span style="background-color: #e4e4e4; color: #666666;">滑鼠左鍵</span>。</p>
+</div>
+		</div><div id="panel-562-0-0-16" class="so-panel widget widget_media_image" data-index="16" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-16" ><img width="711" height="388" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_pan.gif" class="image wp-image-588  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div></div><div id="panel-562-0-0-17" class="so-panel widget widget_text" data-index="17" >			<div class="textwidget"><p>基本的操作技巧你已經會了，接下來透過七個簡單步驟，帶你快速上手這套軟體！</p>
+</div>
+		</div><div id="panel-562-0-0-18" class="so-panel widget widget_text" data-index="18" >			<div class="textwidget"><p><span style="font-weight: bold; font-size: 1.2em;">第一步 預覽APP</span><br />
+點選右上角的<span style="color: #b5495b; font-weight: bold;">播放</span><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/play-button.png" alt="" width="18" height="18" />按鈕，來預覽目前的範例專案。<br />
+你將會看見下列效果</p>
+</div>
+		</div><div id="panel-562-0-0-19" class="so-panel widget widget_media_image" data-index="19" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-19" ><img width="708" height="378" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step1.gif" class="image wp-image-597  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div></div><div id="panel-562-0-0-20" class="so-panel widget widget_text" data-index="20" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第二步 新增畫板</span><br />
+點選<span style="color: #b5495b; font-weight: bold;">新增畫板Artboard</span>按鈕<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/artboard-tool-box.png" alt="" width="18" height="18" />，可透過右側欄新增制式畫板，或自己拉大小。<br />
+接著將游標狀態選回點選工具<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/select-tool-box.png" alt="" width="18" height="18" />，並點選剛才新增畫板的標題，即可針對此畫板進行編輯。<br />
+如：透過右方的<span style="color: #b5495b; font-weight: bold;">色彩Fill</span>欄位可變更畫布的背景色。<br />
+<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Fill-tool.png" alt="" width="256" height="17" /></p>
+</div>
+		</div><div id="panel-562-0-0-21" class="so-panel widget widget_media_image" data-index="21" ><img width="708" height="377" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step2.gif" class="image wp-image-600  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-22" class="so-panel widget widget_text" data-index="22" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第三步 匯入圖片</span><br />
+自電腦中拖曳圖片進來，如拖曳到畫布內的特定圖形，可直接套用該圖形的遮罩；如無則保持該圖形的原樣。</p>
+</div>
+		</div><div id="panel-562-0-0-23" class="so-panel widget widget_media_image" data-index="23" ><img width="707" height="377" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step3.gif" class="image wp-image-601  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-24" class="so-panel widget widget_text" data-index="24" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第四步 重複區塊</span><br />
+點選欲重複的區塊再點選右上角<span style="color: #b5495b; font-weight: bold;">Repeat Grid</span>按鈕<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/repeat-grid-box.png" alt="" width="18" height="18"/>，接著拖曳綠色的邊界即可看見相同區塊重複出現。其中，X Y方向皆可重複，並可拖曳粉色區塊來變更重複區塊的間距。<br />
+<span style="font-size: 0.8em;">小技巧：重複的區塊可便捷的進行統一調整。</span></p>
+</div>
+		</div><div id="panel-562-0-0-25" class="so-panel widget widget_media_image" data-index="25" ><img width="708" height="377" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step4-2.gif" class="image wp-image-615  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-26" class="so-panel widget widget_text" data-index="26" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第五步 畫面捲動</span><br />
+當畫布Artboard長度大於視窗Viewport長度時，將會出現卷軸讓使用者捲動/滑動。<br />
+在這裡面實現這個效果的方法首先點選畫布的標題，接著將右側<span style="color: #b5495b; font-weight: bold;">捲動SCROLLING</span>欄位由None切換至Vertical。<br />
+下方出現的Vertical Height將會是視窗的高度，接著將畫布的高度調整大於此數值。<br />
+最後，點選<span style="color: #b5495b; font-weight: bold;">播放</span><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/play-button.png" alt="" width="18" height="18"/>按鈕將可預覽捲動效果。</p>
+</div>
+		</div><div id="panel-562-0-0-27" class="so-panel widget widget_media_image" data-index="27" ><img width="708" height="375" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step5.gif" class="image wp-image-603  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-28" class="so-panel widget widget_text" data-index="28" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第六步 設定連結</span><br />
+將左上角的Tab由Design切換至Prototype，將可看見每個物件皆出現藍色小箭頭。<br />
+<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Design-Prototype-image.png" alt="" width="148" height="38"/><br />
+拖曳藍色小箭頭至特定畫板，即可製作出「點選該物件即跳轉畫面」的互動效果。<br />
+<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/wiring-image.png" alt="" width="187" height="91" style="background-color: #f9f9f9; padding: 10px;"/></p>
+</div>
+		</div><div id="panel-562-0-0-29" class="so-panel widget widget_media_image" data-index="29" ><img width="708" height="381" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step6.gif" class="image wp-image-604  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-30" class="so-panel widget widget_text" data-index="30" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第七步 分享原型</span><br />
+點選右上<span style="color: #b5495b; font-weight: bold;">分享</span><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/share-button.png" alt="" width="18" height="18"/>按鈕，選擇發佈原型選項。等待產出連結後，便可將連結分享給你的朋友，大家也可以在連結內發表回應。</p>
+</div>
+		</div><div id="panel-562-0-0-31" class="so-panel widget widget_media_image" data-index="31" ><img width="708" height="378" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step7.gif" class="image wp-image-605  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-32" class="so-panel widget widget_text panel-last-child" data-index="32" >			<div class="textwidget"><p>簡單七個步驟後，你就可以製作出你自己的Prototype摟！</p>
+<p><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/arrows.png" alt="" width="28" height="28" /><a style="font-weight: bold; font-size: 2em; color: #924851;" href="https://xd.adobe.com/view/5ad5ac27-581e-457c-664e-3ae24577bf3d-2ce4/?fullscreen" target="_blank" rel="noopener">Try Me</a></p>
+</div>
+		</div></div></div></div><p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/adobe-xd-tutorial/">Adobe XD 入門教學</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/adobe-xd-tutorial/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">562</post-id>	</item>
+	</channel>
+</rss>

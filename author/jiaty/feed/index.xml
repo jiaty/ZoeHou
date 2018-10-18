@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Hou JiaRou &#8211; Jiaty</title>
+	<atom:link href="https://jiaty.github.io/ZoeHou/author/jiaty/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jiaty.github.io/ZoeHou/</link>
+	<description>同理心拯救世界</description>
+	<lastBuildDate>Tue, 09 Oct 2018 14:19:06 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/cropped-Jiaty_shorthair-1-32x32.png</url>
+	<title>Hou JiaRou &#8211; Jiaty</title>
+	<link>https://jiaty.github.io/ZoeHou/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136880357</site>	<item>
+		<title>未來十年IoT的關鍵趨勢和技術</title>
+		<link>https://jiaty.github.io/ZoeHou/iot2023/</link>
+		<comments>https://jiaty.github.io/ZoeHou/iot2023/#respond</comments>
+		<pubDate>Tue, 09 Oct 2018 06:30:43 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[RESEARCH]]></category>
+		<category><![CDATA[IoT]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=679</guid>
+		<description><![CDATA[<p>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 新興物聯網趨勢與技 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/iot2023/">未來十年IoT的關鍵趨勢和技術</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<div id="pl-679"  class="panel-layout" ><div id="pg-679-0"  class="panel-grid panel-no-style" ><div id="pgc-679-0-0"  class="panel-grid-cell" ><div id="panel-679-0-0-0" class="so-panel widget widget_sow-slider panel-first-child" data-index="0" ><div class="so-widget-sow-slider so-widget-sow-slider-default-c114a93e7d23"><div class="sow-slider-base " style="display: none"><ul class="sow-slider-images" data-settings="{&quot;pagination&quot;:true,&quot;speed&quot;:500,&quot;timeout&quot;:30000,&quot;swipe&quot;:true}">		<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_1.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_1.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_1.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_1-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_1-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_1-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_2.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_2.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_2.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_2-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_2-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_2-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_3.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_3.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_3.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_3-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_3-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_3-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_4.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_4.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_4.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_4-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_4-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_4-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_5.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_5.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_5.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_5-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_5-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_5-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_6.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_6.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_6.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_6-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_6-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_6-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_7.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_7.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_7.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_7-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_7-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_7-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_8.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_8.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_8.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_8-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_8-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_8-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_9.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_9.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_9.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_9-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_9-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_9-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_10.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_10.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_10.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_10-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_10-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_10-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_11.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_11.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_11.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_11-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_11-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_11-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_12.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_12.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_12.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_12-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_12-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_12-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_13.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_13.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_13.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_13-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_13-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_13-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_14.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_14.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_14.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_14-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_14-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_14-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+				<li class="sow-slider-image  sow-slider-image-cover" style="background-image: url(https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_15.jpg)" >
+									<img width="1280" height="720" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_15.jpg" class="attachment-full size-full" alt="" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_15.jpg 1280w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_15-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_15-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/JiatyNet_IoT2023_15-1024x576.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />								</li>
+		</ul>				<ol class="sow-slider-pagination">
+											<li><a href="#" data-goto="0" aria-label="顯示投影片 1">1</a></li>
+											<li><a href="#" data-goto="1" aria-label="顯示投影片 2">2</a></li>
+											<li><a href="#" data-goto="2" aria-label="顯示投影片 3">3</a></li>
+											<li><a href="#" data-goto="3" aria-label="顯示投影片 4">4</a></li>
+											<li><a href="#" data-goto="4" aria-label="顯示投影片 5">5</a></li>
+											<li><a href="#" data-goto="5" aria-label="顯示投影片 6">6</a></li>
+											<li><a href="#" data-goto="6" aria-label="顯示投影片 7">7</a></li>
+											<li><a href="#" data-goto="7" aria-label="顯示投影片 8">8</a></li>
+											<li><a href="#" data-goto="8" aria-label="顯示投影片 9">9</a></li>
+											<li><a href="#" data-goto="9" aria-label="顯示投影片 10">10</a></li>
+											<li><a href="#" data-goto="10" aria-label="顯示投影片 11">11</a></li>
+											<li><a href="#" data-goto="11" aria-label="顯示投影片 12">12</a></li>
+											<li><a href="#" data-goto="12" aria-label="顯示投影片 13">13</a></li>
+											<li><a href="#" data-goto="13" aria-label="顯示投影片 14">14</a></li>
+											<li><a href="#" data-goto="14" aria-label="顯示投影片 15">15</a></li>
+									</ol>
+
+				<div class="sow-slide-nav sow-slide-nav-next">
+					<a href="#" data-goto="next" aria-label="下一張投影片" data-action="next">
+						<em class="sow-sld-icon-thick-rounded-right"></em>
+					</a>
+				</div>
+
+				<div class="sow-slide-nav sow-slide-nav-prev">
+					<a href="#" data-goto="previous" aria-label="上一張投影片" data-action="prev">
+						<em class="sow-sld-icon-thick-rounded-left"></em>
+					</a>
+				</div>
+				</div></div></div><div id="panel-679-0-0-1" class="so-panel widget widget_text panel-last-child" data-index="1" >			<div class="textwidget"><p>新興物聯網趨勢與技術既能推動又能顛覆數位企業創新，此十大項目是根據下列四大指標選出：<br />
+1. 能實現新的營運模式或收入流<br />
+2. 創新的體驗或關係<br />
+3. 對未來IoT應用的重要程度<br />
+4. 影響的廣度</p>
+</div>
+		</div></div></div></div><p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/iot2023/">未來十年IoT的關鍵趨勢和技術</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/iot2023/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">679</post-id>	</item>
+		<item>
+		<title>專屬女性的區塊鏈入門課程</title>
+		<link>https://jiaty.github.io/ZoeHou/blockangel-course1/</link>
+		<comments>https://jiaty.github.io/ZoeHou/blockangel-course1/#comments</comments>
+		<pubDate>Mon, 01 Oct 2018 03:13:22 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[COURCE]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[BITHUB]]></category>
+		<category><![CDATA[BlockAngel]]></category>
+		<category><![CDATA[BlockChain]]></category>
+		<category><![CDATA[Ether]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[乙太坊]]></category>
+		<category><![CDATA[區塊鏈]]></category>
+		<category><![CDATA[比特幣]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=624</guid>
+		<description><![CDATA[<p>來分享一個最近上的課程「BlockAngel」，由區塊鏈社群內有理想抱負的美女 Raisy [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/blockangel-course1/">專屬女性的區塊鏈入門課程</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<div id="pl-624"  class="panel-layout" ><div id="pg-624-0"  class="panel-grid panel-no-style" ><div id="pgc-624-0-0"  class="panel-grid-cell" ><div id="panel-624-0-0-0" class="so-panel widget widget_media_image panel-first-child" data-index="0" ><img width="2896" height="1447" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/BlockAngelCover.jpg" class="image wp-image-625  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/BlockAngelCover.jpg 2896w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/BlockAngelCover-300x150.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/BlockAngelCover-768x384.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/BlockAngelCover-1024x512.jpg 1024w" sizes="(max-width: 2896px) 100vw, 2896px" /></div><div id="panel-624-0-0-1" class="widget_text so-panel widget widget_custom_html" data-index="1" ><div class="textwidget custom-html-widget"><p>來分享一個最近上的課程<a href="https://www.facebook.com/events/2129761900606286/" target="_blank" rel="noopener" style="color: #c74246; font-weight: bold;">「BlockAngel」</a>，由區塊鏈社群內有理想抱負的美女<a href="https://www.facebook.com/raisy.chen" target="_blank" rel="noopener" style="color: #00a5af; font-weight: bold;"> Raisy Chen </a>所規劃，並在她創立的<a href="https://www.facebook.com/BITHUBbistro/" target="_blank" rel="noopener" style="color: #00a5af; font-weight: bold;"> BITHUB </a>酒吧的地下室教授課程。</p><br>
+<p>有些人可能注意到近期關於區塊鏈的社群越來越活躍，甚至到了每個星期都有好幾場活動的程度。<br>
+	但為什麼幣圈鏈圈前輩們如此不遺餘力的想分享知識<span style="color: #adb4ad;"><del>(佈道)</del></span>呢？<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/001-sick-150x150.png" alt="" width="30" height="30" /><br>
+	大約和下面幾項有關...<br></p>
+<h3>知識與技術普及</h3>
+<p>目前幣圈在快速發展下，已經可以算是進入第一階段的退潮了。<br>
+	當狂潮和亂象過後，還留下的人可能就是可以一起團結讓世界變得更好的人。<br></p>
+<h3>提升與躍遷</h3>
+<p>並且當一個人擁有一定的專業知識後，如果能夠用自己的話讓小孩都能懂的話，才能算是擁有該知識。<br>
+	如此一來，才更有可能在「天時地利」來臨時，讓自己把該知識連結到對的趨勢浪潮上。<br>
+	而關於「區塊鏈」如何擁有改變世界的潛能，建議可以參閱下面這本<a href="https://www.books.com.tw/products/0010753736?gclid=EAIaIQobChMIx--d1bPk3QIViaqWCh1KsgxKEAAYASAAEgJThPD_BwE" target="_blank" rel="noopener" style="color: #00a5af; font-weight: bold;">「區塊鏈革命」</a>。<span style="color: #adb4ad;"><del>(有空的話可能也可以寫這本的介紹吧...吧)</del></span></p>
+<div style="text-align: center;"><a href="https://www.books.com.tw/products/0010753736?gclid=EAIaIQobChMIx--d1bPk3QIViaqWCh1KsgxKEAAYASAAEgJThPD_BwE" target="_blank" rel="noopener"><img class="alignnone wp-image-163" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/區塊鏈革命.jpg" alt="" width="150" height="auto" /></a></div>
+<h2>加密貨幣市場現況</h2></div></div><div id="panel-624-0-0-2" class="so-panel widget widget_media_image" data-index="2" ><a href="https://charts.bitcoin.com/btc/chart/price"><img width="1024" height="457" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/BitcoinPrice-1024x457.png" class="image wp-image-637  attachment-large size-large" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/BitcoinPrice-1024x457.png 1024w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/BitcoinPrice-300x134.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/BitcoinPrice-768x343.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="panel-624-0-0-3" class="widget_text so-panel widget widget_custom_html" data-index="3" ><div class="textwidget custom-html-widget"><p>幣市這一年來經歷各種超戲劇性跌宕起伏，自2017年底的沸騰牛市比特幣飆升至2萬美元之後，至今已大幅修正至6700美元，全球加密貨幣市值也縮水至2500億美元。</p>
+<p>自比特幣起，透過投<a href="https://www.inside.com.tw/2018/08/19/what-is-ico" target="_blank" rel="noopener" style="color: #00a5af; font-weight: bold;"> ICO(Initial Coin Offering) </a>而快速致富的傳說不絕於耳。</p>
+<p>根據<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3182169" target="_blank" rel="noopener">研究統計</a>，2018/5以前完成的ICO，從代幣發行到上架交易所，平均漲幅高達<span style="color: #c74246;"><strong>179%</strong></span>。</p>
+<p>然而<span style="color: #c74246;"><strong>179%</strong></span>的平均報酬率，是否連股神巴菲特也要自嘆不如了呢？因為他的平均報酬率是<span style="color: #00a5af; font-weight: bold;">19.7%</span>...<img class="alignnone wp-image-163" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/014-laughing.png" alt="" width="30" height="30" /></p></div></div><div id="panel-624-0-0-4" class="widget_text so-panel widget widget_custom_html" data-index="4" ><div class="textwidget custom-html-widget"><hr>
+<p>題外話，講到巴菲特，如果想認識他，下面這個紀錄片一定要拜賞！<img class="alignnone wp-image-163" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/019-happy-2.png" alt="" width="30" height="30" /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bHLEP36QCQU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p>尤其是裡頭他和比爾蓋茲講到的共識片段<a href="https://youtu.be/bHLEP36QCQU?t=45m44s" target="_blank" rel="noopener">(45:55)</a>，如果有感的話，另外推薦大家閱讀下列兩本書：</p>
+<div style="text-align: center;">
+<a href="https://www.books.com.tw/products/0010783076" target="_blank" rel="noopener"><img class="alignnone wp-image-163" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/躍遷.jpg" alt="" width="150" height="auto" /></a>
+<a href="https://www.books.com.tw/products/0010631218" target="_blank" rel="noopener"><img class="alignnone wp-image-163" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/專注的力量.jpg" alt="" width="150" height="auto" /></a>
+</div>
+<hr>
+
+
+<h2></h2></div></div><div id="panel-624-0-0-5" class="widget_text so-panel widget widget_custom_html" data-index="5" ><div class="textwidget custom-html-widget"><p>講到這邊你如果沒有經驗或身邊沒有一夕致富的幣圈新貴，可能會無感。<br>
+	舉例來說，目前經常居第二大市值和市占的加密貨幣「以太幣」<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/icon_ethereum.png" alt="" width="30" height="30" />，如果在2014以ICO價格購入，時至今日<strong>(200美元)</strong>的投資報酬率為<span style="color: #c74246;"><strong>64000%</strong></span>。
+	<span style="color: #adb4ad;">遑論2017年底的<strong>1400美元</strong>瘋狂價格...<br>
+	也就是說，你如果在2014花100台幣買以太幣，到今天賣掉你就有640萬台幣...(what?)</span></p></div></div><div id="panel-624-0-0-6" class="so-panel widget widget_media_image" data-index="6" ><a href="https://www.coindesk.com/ethereum-price/"><img width="1024" height="563" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/EtherPrice-1024x563.png" class="image wp-image-640  attachment-large size-large" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/EtherPrice-1024x563.png 1024w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/EtherPrice-300x165.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/EtherPrice-768x422.png 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/EtherPrice.png 1112w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div><div id="panel-624-0-0-7" class="widget_text so-panel widget widget_custom_html" data-index="7" ><div class="textwidget custom-html-widget"><h2>輕鬆致富？</h2>
+<p>你應該也感覺事有蹊俏，尤其在知道<strong>巴菲特</strong>到底是一個多麼天才的阿甘之後<span style="color: #adb4ad;"><del>(最近又重看了兩次阿甘正傳收穫甚豐R)</del></span>，也應該對如此高報酬的事物感到一絲疑惑，甚至好奇其中緣由。</p>
+<br>
+<p>高報酬背後隱藏的是高風險，而幣市也如同股市一般，<span style="color: #c74246;"><strong>「只要是市場，就有供需」</strong></span>。<br>
+	知情人士透過行銷手法創造大量需求，然由於多數幣的數量有限，因此幣的價格便會隨需求飆漲，然後他們再找尋適當時機再賺取其中的價差。<span style="color: #adb4ad;">甚至有些只是讓你以為數量有限...</span><br>
+	股市中有一句話說<span style="color: #c74246;"><strong>「新聞是股市的落後指標」</strong></span>，也適用於幣市。<br>
+	你不管多快Follow到多少資訊，都不會比該ICO團隊的內部人員更快更精準。<span style="color: #adb4ad;">尤其是在很多消息都是知情人士刻意散布的情況下，你甚至可能被誤導...</span><br></p>
+<h3>有人賺，就有人虧。</h3>
+<p>這個時候，股市裡被收割的<span style="color: #00a5af; font-weight: bold;">散戶</span>，在幣市就被戲稱為<span style="color: #00a5af; font-weight: bold;">韭菜</span>。<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/icon_grass.png" alt="" width="30" height="30" /><span style="color: #adb4ad;"><del> (因為韭菜收成時間很短...)</del></span></p>
+<p>你可能會想，這世界沒有公平正義了嗎？還是有一些拉其實...<span style="color: #adb4ad;"><del>(疑有嗎?)</del></span><br>
+	在股市內，如果知情人士透過內部消息做獲利行為，會被合理懷疑是內線交易，是可以被起訴的。<br>
+	但是！<strong>幣市目前沒有嚴格的對應法規可管！</strong>甚至很多人在寫白皮書時，還會刻意規避相關法規。<span style="color: #adb4ad;">(證交法、銀行法、民法...等)</span><br>
+	所以目前如果你在加密貨幣領域被收割了，只能默默認賠。<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/001-sick-150x150.png" alt="" width="30" height="30" /><br>
+	但大家也不是傻子，漸漸地只有少數人賺錢、相關問題被接露之後，少了散戶支撐，牛市也就漸漸的轉變為熊市了。</p><br>
+<div style="text-align: center;"><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/BullMarket.png" alt="" width="300" height="auto" /></div></div></div><div id="panel-624-0-0-8" class="widget_text so-panel widget widget_custom_html" data-index="8" ><div class="textwidget custom-html-widget"><p>上述的亂象是否應證「區塊鏈是假議題」、「比特幣無法落地」、「挖礦的週邊產業即將沒落」等猜測呢？</p>
+<h3>非也。</h3>
+<p>區塊鏈可解目前許多世界上以存在但仍解不了的難題，人類需要做的就是運用此技術來讓優化生活。<span style="color: #adb4ad;">(下面會介紹區塊鏈特點與未來應用)</span><br>
+	目前幣圈先進們所努力的，便是傳播正確的知識，讓全世界少數加密貨幣友善國家之一的台灣，可以再創造下一個半導體奇蹟。<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/020-happy-1.png" alt="" width="30" height="30" /></p><br>
+<p>所以到底<a href="https://www.facebook.com/events/2129761900606286/" target="_blank" rel="noopener" style="color: #c74246; font-weight: bold;">「BlockAngel」</a>是啥？<span style="color: #adb4ad;"><del>就是區塊鏈妹子養成班(嗯?)</del></span></p></div></div><div id="panel-624-0-0-9" class="so-panel widget widget_media_image panel-last-child" data-index="9" ><img width="1024" height="576" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/20180930-1024x576.jpg" class="image wp-image-638  attachment-large size-large" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/20180930-1024x576.jpg 1024w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/20180930-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/20180930-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></div></div></div><div id="pg-624-1"  class="panel-grid panel-no-style" ><div id="pgc-624-1-0"  class="panel-grid-cell" ><div id="panel-624-1-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child" data-index="10" ><div class="textwidget custom-html-widget"><h2>最貼近實務的區塊鏈知識</h2>
+<p>BlockAngel是<a href="https://www.facebook.com/raisy.chen" target="_blank" rel="noopener" style="color: #00a5af; font-weight: bold;"> Raisy Chen </a>為了對區塊鏈有興趣的女性群眾，所建立的開放且友善的學習管道。<br>
+	透過鏈圈先進們的手把手訓練，傳授女性最貼近實務的區塊鏈知識。<br>
+	在第一堂課中，為了讓所有初學者能好好進入新手村，Raisy首先針對此領域的主要名詞做了非常生活化的解釋。<br>
+	下面摘錄一些第一堂「BlockAngel」的課程內容，解釋部分我採用目前主流的解釋，想聽生活化的解釋歡迎報名下次聚會摟<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/10/icon_finger.png" alt="" width="30" height="30" /><a href="https://www.facebook.com/BITHUBbistro/" target="_blank" rel="noopener" style="color: #00a5af; font-weight: bold;"> BITHUB </a></p></div></div><div id="panel-624-1-0-1" class="widget_text so-panel widget widget_custom_html" data-index="11" ><div class="textwidget custom-html-widget"><h3>比特幣</h3>
+<p>在區塊鏈各項的應用中，最早被大家熟知的便是金融科技方面的加密貨幣(數位貨幣)—<span style="color: #00a5af; font-weight: bold;">比特幣</span>。<br>
+	比特幣的底層技術區塊鏈可應用在各行各業，通常首字母大寫的<strong>「Bitcoin」</strong>是指其所使用的<span style="color: #00a5af; font-weight: bold;">比特幣技術與網路</span>，而首字母小寫的<strong>「bitcoin」</strong>才是指<span style="color: #00a5af; font-weight: bold;">貨幣</span>本身。<br>
+	比特幣也是區塊鏈支付系統和虛擬計價工具，由於其採用密碼技術來控制貨幣的生產和轉移，而沒有中央的發行機構，無法任意增發(比特幣協定數量上限為2100萬個)。<br>
+	交易在全球網路中執行，有特殊的隱秘性，加上不必經過第三方金融機構，因此得到越來越廣泛的應用，也成了非法交易的媒介。<br>
+	使用比特幣是透過私鑰作為數位簽章，允許個人直接支付給他人，不需經過如銀行、清算中心、證券商等第三方機構，從而避免了高手續費、繁瑣流程以及受監管性的問題，任何用戶只要擁有可連線網際網路的數位裝置皆可使用。<br><br>
+<a href="https://zh.wikipedia.org/wiki/%E6%AF%94%E7%89%B9%E5%B8%81" target="_blank" rel="noopener"> 資料來源：維基百科 </a></p>
+<br>
+<h3>以太坊</h3>
+<p>以太坊<strong>(Ethereum)</strong>是一個開源的有智慧型合約功能的公共區段鏈平台。<br>
+	通過其專用加密貨幣以太幣<strong>(Ether，又稱「以太幣」)</strong>提供去中心化的虛擬機器(稱為「以太虛擬機」Ethereum Virtual Machine)來處理對等合約。<br>
+	以太坊的概念首次在2013至2014年間由Vitalik Buterin受比特幣啟發後提出，意為「下一代加密貨幣與去中心化應用平台」，在2014年透過ICO得以開始發展。</p>
+<h3>以太幣</h3>
+<p>以太坊區段鏈上的代幣稱為以太幣(Ether)，程式碼為ETH，可在許多加密貨幣的外匯市場上交易，它也是<strong>以太坊上用來支付交易手續費和運算服務的媒介</strong><br><br>
+<a href="https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%A4%AA%E5%9D%8A" target="_blank" rel="noopener"> 資料來源：維基百科 </a></p>
+<br>
+<h3>ICO</h3>
+<p>ICO是介於群眾募資和IPO之間的一種<span style="color: #00a5af; font-weight: bold;">籌資方式</span>，相對於「群眾募資」發行「商品兌換權」以及「IPO」發行「股票」，「ICO」發行的則是<strong>「代幣」</strong>。<br><br>
+<a href="https://www.bnext.com.tw/search/tag/ico" target="_blank" rel="noopener"> 資料來源：數位時代 </a></p>
+<br>
+<h3>區塊鏈村莊小故事</h3>
+<p>在一個<strong>沒有現金</strong>的村莊，村子裡的人沒有鈔票也沒有貴金屬，只在村口有一堆巨型石頭，共計<strong>2100</strong>塊。<br>
+	人們把這些石頭當做錢，刻成錢幣形狀，大大小小不等，大的代表100塊，小的代表50或25不等。<br>
+	因為搬不動這些錢，擁有這個錢的人就把自己的名字刻在上面，放置在村口。<br>
+	如果發生交易，比如在5月1日，A買了B的一頭牛，要付給B一百元，村長就在屬於A的一塊價值100元的石頭上刻上「5月1日，A給了B」。之後在5月2日，B又買了C一隻羊，同樣一百元，村長就在這個石頭上加字「5月1日，A給了B；5月2日，B給了C 」，這樣這塊石頭就歸C了。<br>
+	<strong>你有多少錢就看有多少石頭上最後一個名字是你。</strong><br>
+	為了防止有人偷偷修改雕刻石頭上的名字，村子裡設定了一個制度，在村口立了一塊<strong>大石碑，上面記錄有每天的交易</strong>。<br>
+	每天傍晚，村長召集所有村民，廣播宣布今天的所有交易，比如：「今天是5月2日，B找C 買頭羊，B給了C 100元；E還D欠款，E給了D 200元；E找G買雞蛋，E給了G 50元...等」。<br>
+	而<strong>村民每個人手裡都有一個私人的賬本</strong>，上面和石碑一樣記錄了所有交易記錄。<br>
+	當<strong>村長廣播</strong>宣布完之後，村民根據自己手裡的賬本來計算今天所有的交易記錄是否成立，比如「B給C 100元」，那B的賬上是否有這100元呢？<br>
+	<strong>計算完成今天所有交易的村民就舉手表示同意，當超過50%的村民舉手錶示今天的交易成立的情況下，村長就把交易刻在大石碑上</strong>，之後依照大石碑上的記錄去修改石頭上的刻字。<br>
+	同時為了鼓勵村民積極計算，<strong>第一個舉手的村民會得到獎勵</strong>，村長會在一個空白的石頭錢上刻他的名字。<br>
+	最後，一個率先實現無現金社會的小村子就誕生了，而當我們用<span style="color: #c74246; font-weight: bold;">比特幣</span>來替代故事裡的<span style="color: #00a5af; font-weight: bold;">大石頭</span>；<br>
+	用<span style="color: #c74246; font-weight: bold;">自動的共識算法</span>來取代<span style="color: #00a5af; font-weight: bold;">村長廣播召開集會</span>；<br>
+	用<span style="color: #c74246; font-weight: bold;">分佈式計算機</span>取代村民家的<span style="color: #00a5af; font-weight: bold;">賬本</span>；<br>
+	用<span style="color: #c74246; font-weight: bold;">帶時間戳的交易數據</span>取代每天刻在<span style="color: #00a5af; font-weight: bold;">石碑上帶日期的交易紀錄</span>，一個可以廣泛應用於全社會的數字貨幣就誕生了。<br>
+	比特幣背後的區塊鏈技術也就是類似這樣的架構完成的。<br><br>
+<a href="https://mp.weixin.qq.com/s?__biz=MzU3ODEwNzkyNg==&mid=2247483759&idx=1&sn=b8527ceeb3cbd7b4b5d9ac659a6d2fe4&chksm=fd7b2e16ca0ca7000fc9a60be94a3d4e0433b13375b4753306fc35e928cf90a7693d09d43cf6##" target="_blank" rel="noopener"> 資料來源：VC搞事圈 </a></p>
+<br>
+<h3>區塊鏈未來應用</h3>
+<p>「區塊鏈是一種無法竄改的全球資料庫，能提供一個數位帳本，來記錄金融交易以及其他有價值的東西，如出生年月日、資產所有權、教育文憑、醫療程序、選票等各種應用」—《區塊鏈革命》</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3psxs3gyf8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p>
+	1. Banking & Payments (0:39)<br>
+	2. Cyber Security (1:22)<br>
+	3. Sypply Chair Management (1:42)<br>
+	4. Forecasting (2:18)<br>
+	5. Networking And IOT (Internet of Things) (2:41)<br>
+	6. Insurance (3:07)<br>
+	7. Private Transport & Ride Sharing (3:41)<br>
+	8. Online Data Storage (4:12)<br>
+	9. Charity (4:32)<br>
+	10. Voting (4:54)<br>
+	11. Government (5:37)<br>
+	12. Public Benefits (5:57)<br>
+	13. Healthcare (6:31)<br>
+	14. Energy Management (7:05)<br>
+	15. Online Music (7:30)<br>
+	16. Retail (7:53)<br>
+	17. Real Estate (8:23)<br>
+	18. Crowdfunding (8:51)<br>
+	19. Your Industry (9:36)
+</p>
+<br>
+<h3>區塊鏈特點</h3>
+<p><span style="color: #00a5af; font-weight: bold;">1、去中心化：</span>由於使用分布式核算和存儲，<strong>不存在中心化的硬體或管理機構</strong>，任意節點的權利和義務都是均等的，系統中的數據塊由整個系統中具有維護功能的節點來共同維護。<br>
+<span style="color: #00a5af; font-weight: bold;">2、開放性：</span>系統是開放的，除了交易各方的私有信息被加密外，<strong>區塊鏈的數據對所有人公開</strong>，任何人都可以通過公開的接口查詢區塊鏈數據和開發相關應用，因此整個系統信息高度透明。<br>
+<span style="color: #00a5af; font-weight: bold;">3、自治性：</span>區塊鏈採用<strong>基於協商一致的規範和協議</strong>，比如一套公開透明的算法，這使得整個系統中的所有節點能夠在去信任的環境自由安全的交換數據，使對人的信任改成了對機器的信任，任何人為的干預不起作用。<br>
+<span style="color: #00a5af; font-weight: bold;">4、信息不可篡改：</span>一旦信息經過驗證並添加至區塊鏈，就會<strong>永久的存儲起來</strong>，除非能夠同時控制住系統中超過51%的節點，否則單個節點上對資料庫的修改是無效的，因此區塊鏈的數據穩定性和可靠性極高。<br>
+<span style="color: #00a5af; font-weight: bold;">5、匿名性：</span>由於節點之間的交換遵循固定的算法，因此交易對手<strong>無須通過公開身份</strong>的方式讓對方自己產生信任，對信用的累積非常有幫助。<br><br>
+<a href="https://read01.com/zh-tw/AQJEdy.html#.W7HzIdMzZPY" target="_blank" rel="noopener"> 資料來源：壹讀-中信基金 </a></p>
+<br>
+<h3>[推薦]其他相關知識來源</h3>
+<p><a href="https://blocktrend.today/blockchain-101" target="_blank" rel="noopener"> 區塊勢 </a></p>
+<p><a href="https://www.blocktempo.com/" target="_blank" rel="noopener"> 動區動區 </a></p></div></div><div id="panel-624-1-0-2" class="so-panel widget widget_text panel-last-child" data-index="12" >			<div class="textwidget"><p>以上就是針對 BlockAngel第一堂課 的介紹整理，希望對你有所幫助，有任何問題歡迎在下面交流。<img class="alignnone wp-image-137" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy.png" alt="" width="30" height="30" /></p>
+</div>
+		</div></div></div></div><p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/blockangel-course1/">專屬女性的區塊鏈入門課程</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/blockangel-course1/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">624</post-id>	</item>
+		<item>
+		<title>Adobe XD 入門教學</title>
+		<link>https://jiaty.github.io/ZoeHou/adobe-xd-tutorial/</link>
+		<comments>https://jiaty.github.io/ZoeHou/adobe-xd-tutorial/#respond</comments>
+		<pubDate>Wed, 29 Aug 2018 00:30:17 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[Adobe XD]]></category>
+		<category><![CDATA[Adobe]]></category>
+		<category><![CDATA[Prototype]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[UX]]></category>
+		<category><![CDATA[XD]]></category>
+		<category><![CDATA[教學]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=562</guid>
+		<description><![CDATA[<p>2018年中旬Adobe宣布XD免費！ Adobe XD CC Starter版本具備正式 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/adobe-xd-tutorial/">Adobe XD 入門教學</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<div id="pl-562"  class="panel-layout" ><div id="pg-562-0"  class="panel-grid panel-no-style" ><div id="pgc-562-0-0"  class="panel-grid-cell" ><div id="panel-562-0-0-0" class="so-panel widget widget_media_image panel-first-child" data-index="0" ><img width="1919" height="910" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD官網.png" class="image wp-image-564  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD官網.png 1919w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD官網-300x142.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD官網-768x364.png 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD官網-1024x486.png 1024w" sizes="(max-width: 1919px) 100vw, 1919px" /></div><div id="panel-562-0-0-1" class="so-panel widget widget_text" data-index="1" >			<div class="textwidget"><p>2018年中旬Adobe宣布XD<span style="color: #00a5af; font-weight: bold;">免費</span>！<br />
+Adobe XD CC Starter版本具備正式版的相同功能，並且沒有什麼試用30天的時間限制。</p>
+</div>
+		</div><div id="panel-562-0-0-2" class="so-panel widget widget_text" data-index="2" >			<div class="textwidget"><hr />
+<p><span style="font-size: 2em; font-weight: bold; line-height: 2em;">We believe Adobe XD will be as big as Photoshop, if not bigger.</span> <span style="font-size: 0.8em; color: #a0a0a0;">(我們相信XD將會像PS一樣強大，如果沒有，那就是更大。)</span></p>
+<p style="text-align: right;">-Scott Belsky, Chief Product Officer &amp; Executive Vice President, Adobe</p>
+<hr />
+</div>
+		</div><div id="panel-562-0-0-3" class="so-panel widget widget_text" data-index="3" >			<div class="textwidget"><p>這邊其實關連到前陣子新釋出的功能：目前AdobePhotoshop檔案(.psd)<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/icon_psdfile.png" alt="" width="28" height="28" />是可以直接使用AdobeXD應用程式開啟的。</p>
+<p>在AdobeXD問世(2017)之前，Mac OS用戶使用Sketch<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/icon_sketch.png" alt="" width="28" height="28" />製作軟體介面設計，而Windows用戶則主要使用Photoshop<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/icon_AdobePhotoshop.png" alt="" width="28" height="28" />來製作設計。</p>
+</div>
+		</div><div id="panel-562-0-0-4" class="so-panel widget widget_text" data-index="4" >			<div class="textwidget"><p>AdobeXD目前鎖定的目標用戶有兩類：<span style="color: #b5495b; font-weight: bold;">(1)原PS UI設計者</span>、<span style="color: #b5495b; font-weight: bold;">(2)UI/UX入門者</span>。<br />
+因此，<span style="color: #b5495b; font-weight: bold;">降低新舊轉移成本</span>和<span style="color: #b5495b; font-weight: bold;">最低化進入門檻</span>是XD目前的主要特色。<br />
+對原PS使用者而言，舊專案可直接匯入，且所有圖層和操作習慣都相似，這就是新舊的無痛轉移阿。</p>
+</div>
+		</div><div id="panel-562-0-0-5" class="so-panel widget widget_text" data-index="5" >			<div class="textwidget"><p>那進入門檻到底有多低呢？<br />
+如果沒有用過Adobe系列任何一項產品是否有機會？</p>
+<p><span style="font-size: 1.5em; font-weight: bold; line-height: 1.5em;">Ans: 很低，可以的。</span></p>
+<p>下列讓我來帶您導覽一下XD的基本操作，不管你有沒有美術天分或介面設計概念，只要會用滑鼠和鍵盤，就可以建立你的第一個APP Prototype。</p>
+</div>
+		</div><div id="panel-562-0-0-6" class="so-panel widget widget_media_image" data-index="6" ><div class="StartImg panel-widget-style panel-widget-style-for-562-0-0-6" ><img width="600" height="300" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Custom-Size-–-1-768x384.jpg" class="image wp-image-579  attachment-600x300 size-600x300" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Custom-Size-–-1-768x384.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Custom-Size-–-1-300x150.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Custom-Size-–-1.jpg 800w" sizes="(max-width: 600px) 100vw, 600px" /></div></div><div id="panel-562-0-0-7" class="so-panel widget widget_text" data-index="7" >			<div class="textwidget"><p><a href="https://creative.adobe.com/zh-tw/products/download/xd?promoid=B8NR3RT1&amp;mv=other" target="_blank" rel="noopener" style="color: #924851;">下載安裝</a>好AdobeXD<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/icon_adobexd.png" alt="" width="28" height="28" />之後，開啟應用程式你會看到下面這個畫面。</p>
+</div>
+		</div><div id="panel-562-0-0-8" class="so-panel widget widget_media_image" data-index="8" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-8" ><img width="1002" height="801" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_initial.png" class="image wp-image-580  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_initial.png 1002w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_initial-300x240.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_initial-768x614.png 768w" sizes="(max-width: 1002px) 100vw, 1002px" /></div></div><div id="panel-562-0-0-9" class="so-panel widget widget_text" data-index="9" >			<div class="textwidget"><p>點選左下角的<span style="color: #00a5af; font-weight: bold;">Begin Tutorial</span>按鈕即可開啟教學檔案，進入下面這個畫面。</p>
+</div>
+		</div><div id="panel-562-0-0-10" class="so-panel widget widget_media_image" data-index="10" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-10" ><img width="1920" height="1030" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_tutorial.png" class="image wp-image-576  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_tutorial.png 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_tutorial-300x161.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_tutorial-768x412.png 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_tutorial-1024x549.png 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></div></div><div id="panel-562-0-0-11" class="so-panel widget widget_text" data-index="11" >			<div class="textwidget"><p>首先，先來介紹基本操作：</p>
+</div>
+		</div><div id="panel-562-0-0-12" class="so-panel widget widget_media_image" data-index="12" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-12" ><img width="2816" height="520" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Navigating-Adobe-XD.png" class="image wp-image-583  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Navigating-Adobe-XD.png 2816w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Navigating-Adobe-XD-300x55.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Navigating-Adobe-XD-768x142.png 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Navigating-Adobe-XD-1024x189.png 1024w" sizes="(max-width: 2816px) 100vw, 2816px" /></div></div><div id="panel-562-0-0-13" class="so-panel widget widget_text" data-index="13" >			<div class="textwidget"><p><span style="font-weight: bold;">(1) 視角縮放</span><br />
+點選鍵盤上的  <span style="background-color: #e4e4e4; color: #666666;">Ctrl</span> 或 <span style="background-color: #e4e4e4; color: #666666;">Alt</span>  加上  <span style="background-color: #e4e4e4; color: #666666;">+/-</span> 或 <span style="background-color: #e4e4e4; color: #666666;">滑鼠滾輪</span>。</p>
+</div>
+		</div><div id="panel-562-0-0-14" class="so-panel widget widget_media_image" data-index="14" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-14" ><img width="779" height="421" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_zoom.gif" class="image wp-image-584  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div></div><div id="panel-562-0-0-15" class="so-panel widget widget_text" data-index="15" >			<div class="textwidget"><p><span style="font-weight: bold;">(2) 移動視角</span><br />
+點選鍵盤上的 <span style="background-color: #e4e4e4; color: #666666;">空白鍵</span> 加上 <span style="background-color: #e4e4e4; color: #666666;">滑鼠左鍵</span>。</p>
+</div>
+		</div><div id="panel-562-0-0-16" class="so-panel widget widget_media_image" data-index="16" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-16" ><img width="711" height="388" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_pan.gif" class="image wp-image-588  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div></div><div id="panel-562-0-0-17" class="so-panel widget widget_text" data-index="17" >			<div class="textwidget"><p>基本的操作技巧你已經會了，接下來透過七個簡單步驟，帶你快速上手這套軟體！</p>
+</div>
+		</div><div id="panel-562-0-0-18" class="so-panel widget widget_text" data-index="18" >			<div class="textwidget"><p><span style="font-weight: bold; font-size: 1.2em;">第一步 預覽APP</span><br />
+點選右上角的<span style="color: #b5495b; font-weight: bold;">播放</span><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/play-button.png" alt="" width="18" height="18" />按鈕，來預覽目前的範例專案。<br />
+你將會看見下列效果</p>
+</div>
+		</div><div id="panel-562-0-0-19" class="so-panel widget widget_media_image" data-index="19" ><div class="xdImg panel-widget-style panel-widget-style-for-562-0-0-19" ><img width="708" height="378" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step1.gif" class="image wp-image-597  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div></div><div id="panel-562-0-0-20" class="so-panel widget widget_text" data-index="20" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第二步 新增畫板</span><br />
+點選<span style="color: #b5495b; font-weight: bold;">新增畫板Artboard</span>按鈕<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/artboard-tool-box.png" alt="" width="18" height="18" />，可透過右側欄新增制式畫板，或自己拉大小。<br />
+接著將游標狀態選回點選工具<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/select-tool-box.png" alt="" width="18" height="18" />，並點選剛才新增畫板的標題，即可針對此畫板進行編輯。<br />
+如：透過右方的<span style="color: #b5495b; font-weight: bold;">色彩Fill</span>欄位可變更畫布的背景色。<br />
+<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Fill-tool.png" alt="" width="256" height="17" /></p>
+</div>
+		</div><div id="panel-562-0-0-21" class="so-panel widget widget_media_image" data-index="21" ><img width="708" height="377" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step2.gif" class="image wp-image-600  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-22" class="so-panel widget widget_text" data-index="22" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第三步 匯入圖片</span><br />
+自電腦中拖曳圖片進來，如拖曳到畫布內的特定圖形，可直接套用該圖形的遮罩；如無則保持該圖形的原樣。</p>
+</div>
+		</div><div id="panel-562-0-0-23" class="so-panel widget widget_media_image" data-index="23" ><img width="707" height="377" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step3.gif" class="image wp-image-601  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-24" class="so-panel widget widget_text" data-index="24" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第四步 重複區塊</span><br />
+點選欲重複的區塊再點選右上角<span style="color: #b5495b; font-weight: bold;">Repeat Grid</span>按鈕<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/repeat-grid-box.png" alt="" width="18" height="18"/>，接著拖曳綠色的邊界即可看見相同區塊重複出現。其中，X Y方向皆可重複，並可拖曳粉色區塊來變更重複區塊的間距。<br />
+<span style="font-size: 0.8em;">小技巧：重複的區塊可便捷的進行統一調整。</span></p>
+</div>
+		</div><div id="panel-562-0-0-25" class="so-panel widget widget_media_image" data-index="25" ><img width="708" height="377" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step4-2.gif" class="image wp-image-615  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-26" class="so-panel widget widget_text" data-index="26" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第五步 畫面捲動</span><br />
+當畫布Artboard長度大於視窗Viewport長度時，將會出現卷軸讓使用者捲動/滑動。<br />
+在這裡面實現這個效果的方法首先點選畫布的標題，接著將右側<span style="color: #b5495b; font-weight: bold;">捲動SCROLLING</span>欄位由None切換至Vertical。<br />
+下方出現的Vertical Height將會是視窗的高度，接著將畫布的高度調整大於此數值。<br />
+最後，點選<span style="color: #b5495b; font-weight: bold;">播放</span><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/play-button.png" alt="" width="18" height="18"/>按鈕將可預覽捲動效果。</p>
+</div>
+		</div><div id="panel-562-0-0-27" class="so-panel widget widget_media_image" data-index="27" ><img width="708" height="375" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step5.gif" class="image wp-image-603  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-28" class="so-panel widget widget_text" data-index="28" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第六步 設定連結</span><br />
+將左上角的Tab由Design切換至Prototype，將可看見每個物件皆出現藍色小箭頭。<br />
+<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/Design-Prototype-image.png" alt="" width="148" height="38"/><br />
+拖曳藍色小箭頭至特定畫板，即可製作出「點選該物件即跳轉畫面」的互動效果。<br />
+<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/wiring-image.png" alt="" width="187" height="91" style="background-color: #f9f9f9; padding: 10px;"/></p>
+</div>
+		</div><div id="panel-562-0-0-29" class="so-panel widget widget_media_image" data-index="29" ><img width="708" height="381" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step6.gif" class="image wp-image-604  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-30" class="so-panel widget widget_text" data-index="30" >			<div class="textwidget"><p style="margin-top: 44px;"></p>
+<p><span style="font-weight: bold; font-size: 1.2em;">第七步 分享原型</span><br />
+點選右上<span style="color: #b5495b; font-weight: bold;">分享</span><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/share-button.png" alt="" width="18" height="18"/>按鈕，選擇發佈原型選項。等待產出連結後，便可將連結分享給你的朋友，大家也可以在連結內發表回應。</p>
+</div>
+		</div><div id="panel-562-0-0-31" class="so-panel widget widget_media_image" data-index="31" ><img width="708" height="378" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/08/AdobeXD_Step7.gif" class="image wp-image-605  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="panel-562-0-0-32" class="so-panel widget widget_text panel-last-child" data-index="32" >			<div class="textwidget"><p>簡單七個步驟後，你就可以製作出你自己的Prototype摟！</p>
+<p><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/arrows.png" alt="" width="28" height="28" /><a style="font-weight: bold; font-size: 2em; color: #924851;" href="https://xd.adobe.com/view/5ad5ac27-581e-457c-664e-3ae24577bf3d-2ce4/?fullscreen" target="_blank" rel="noopener">Try Me</a></p>
+</div>
+		</div></div></div></div><p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/adobe-xd-tutorial/">Adobe XD 入門教學</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/adobe-xd-tutorial/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">562</post-id>	</item>
+		<item>
+		<title>離開學校三個月後上的第一堂課</title>
+		<link>https://jiaty.github.io/ZoeHou/swankycourse/</link>
+		<comments>https://jiaty.github.io/ZoeHou/swankycourse/#comments</comments>
+		<pubDate>Sat, 03 Feb 2018 18:28:30 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[COURCE]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[加密貨幣]]></category>
+		<category><![CDATA[史旺基]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=343</guid>
+		<description><![CDATA[<p>出社會即將滿三個月了，我原本預計每週寫一篇文章，但現實總是各種失控。 回顧一下我的職場蜜月 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/swankycourse/">離開學校三個月後上的第一堂課</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<div id="pl-343"  class="panel-layout" ><div id="pg-343-0"  class="panel-grid panel-no-style" ><div id="pgc-343-0-0"  class="panel-grid-cell" ><div id="panel-343-0-0-0" class="so-panel widget widget_media_image panel-first-child" data-index="0" ><img width="1920" height="800" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/swanky_courseTop.jpg" class="image wp-image-344  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/swanky_courseTop.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/swanky_courseTop-300x125.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/swanky_courseTop-768x320.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/swanky_courseTop-1024x427.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></div><div id="panel-343-0-0-1" class="so-panel widget widget_text" data-index="1" >			<div class="textwidget"><p>出社會即將滿三個月了，我原本預計每週寫一篇文章，但現實總是各種失控。<br />
+回顧一下我的職場蜜月期大約只持續了一個多星期，細節就不贅述了，總之後來我就開始各種忙碌直到現在。<br />
+想當初我理想中的新鮮人工作生涯可能會是這樣：<br />
+<span style="color: #cc7b8d; padding-left: 20px; font-weight: bold;"><img style="width: 20px;" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/arrows.png" /> 每天充滿活力的去上班、充實的下班</span><br />
+<span style="color: #cc7b8d; padding-left: 20px; font-weight: bold;"><img style="width: 20px;" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/arrows.png" /> 上班期間偶爾可以<span style="text-decoration: line-through; color: #f2f2f2;">由公司補助</span>去上進修課程</span><br />
+<span style="color: #cc7b8d; padding-left: 20px; font-weight: bold;"><img style="width: 20px;" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/arrows.png" /> 下班期間每週看一本書、偶爾參加有趣的聚會<br />
+</span><br />
+當然想像和現實總會有點落差，不過至少還是充實的經過了三個月，我也從中獲取到不少我尚未具備的資訊。<br />
+最近我恰巧有機會上了一堂有關<a style="color: #00a5af;" href="https://www.facebook.com/groups/swanky.cryptocurrency/" target="_blank" rel="noopener">加密貨幣實戰的教學課程</a>，趁記憶還新鮮來整理一下上課的心得。</p>
+</div>
+		</div><div id="panel-343-0-0-2" class="so-panel widget widget_text" data-index="2" ><h3 class="widget-title">加密貨幣？</h3>			<div class="textwidget"><p>加密貨幣這個詞如果透過文字對它做定義，或許你可以參考<a href="https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A2%BC%E8%B2%A8%E5%B9%A3" target="_blank" rel="noopener">Wiki</a>的這句：加密貨幣<span style="color: #bbbbbb;">（英文：Cryptocurrency，又譯密碼貨幣，密碼學貨幣）</span>是一種使用<strong>使用密碼學原理來確保交易安全及控制交易單位創造的交易媒介</strong>。<br />
+如果你覺得你看了一段亂碼，可以到下方留言我再解釋<span style="text-decoration: line-through; color: #bbbbbb;">(Google)</span>裡面的名詞給你聽。<br />
+但你如果再繼續深入問我，我大概會說 <span style="color: #cc7b8d;">就是字面上的意思</span>。</p>
+</div>
+		</div><div id="panel-343-0-0-3" class="widget_text so-panel widget widget_custom_html panel-last-child" data-index="3" ><div class="widget_text panel-widget-style panel-widget-style-for-343-0-0-3" ><div class="textwidget custom-html-widget"><img class="aligncenter size-full wp-image-345" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/img_BTC01.png" alt="Designed by Freepik" width="200" /><br>
+你可能會覺得這個領域就是一堆宅宅工程師對著電腦敲敲打打，然後莫名其妙就變土豪<span style="color: #bbbbbb;">(?)</span>。<br>
+所以如果你真的還沒什麼概念，或許你可以看一下這個非常用心製作的影片。<br>
+<iframe src="https://www.youtube.com/embed/5r8kJCE1S1s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br>
+<span style="text-decoration: line-through; color: #bbbbbb;">我個人是覺得看完可能還是會似懂非懂，但至少會很開心台灣有很棒的動畫師。</span><br>
+不過今天的主題<span style="color: #cc7b8d; font-weight: bold;">實戰</span>指的是：<span style="color: #cc7b8d; font-weight: bold;">買賣加密貨幣</span><br>
+因此，相關技術或學術知識<span style="color: #bbbbbb; font-size: 0.5em;">(如：區塊鍊、FinTech、挖礦...)</span>，如果想深入了解的話，可以自己去Google<span style="color: #bbbbbb;">，或是之後我可能會整理</span>。<br>
+<br>
+<span style="color: #bbbbbb;">進入主題...</span><br>
+<br>
+目前加密貨幣有數千種，如：比特幣、以太幣、萊特幣...等。</div></div></div></div></div><div id="pg-343-1"  class="panel-grid panel-no-style" ><div id="pgc-343-1-0"  class="panel-grid-cell" ><div id="panel-343-1-0-0" class="so-panel widget widget_text panel-first-child" data-index="4" ><h3 class="widget-title">比特幣 BTC？</h3>			<div class="textwidget"><p>其中最有名也最貴的就是比特幣了，2017年關於它的新聞多到除非與世隔絕，不然應該會聽過它。<br />
+為什麼它這麼有名？看看下面這張圖</p>
+</div>
+		</div><div id="panel-343-1-0-1" class="so-panel widget widget_media_image" data-index="5" ><img width="1024" height="432" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/BTC_chart-1024x432.jpg" class="image wp-image-347  attachment-large size-large" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/BTC_chart-1024x432.jpg 1024w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/BTC_chart-300x127.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/BTC_chart-768x324.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/BTC_chart.jpg 1445w" sizes="(max-width: 1024px) 100vw, 1024px" /></div><div id="panel-343-1-0-2" class="so-panel widget widget_text panel-last-child" data-index="6" >			<div class="textwidget"><p>自從2009年比特幣被發表在網路上後，一顆比特幣的價格曾一度漲到<span style="color: #00a5af;">兩萬美金</span>，相當於台幣六十萬。<br />
+想像一下，如果你在2017年中旬以五千美金買入一顆比特幣並在該年底賣出，就淨賺了一萬五千美金(約四十五萬台幣)，相當於每個月為自己加薪 <span style="color: #cc7b8d;">NT$37.5K</span>。<br />
+然而比特幣雖然可以一直挖，但是有<a href="https://en.bitcoin.it/wiki/Controlled_supply" target="_blank">2100萬顆幣的上限值</a>，所以應可合理推論未來比特幣的價格會持續上漲。</p>
+</div>
+		</div></div></div><div id="pg-343-2"  class="panel-grid panel-no-style" ><div id="pgc-343-2-0"  class="panel-grid-cell" ><div id="panel-343-2-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="7" ><h3 class="widget-title">虛擬貨幣買賣</h3>			<div class="textwidget"><p>實際一點來看，目前一顆比特幣的價格在約七千美金的位置，也就是台幣二十一萬左右。<br />
+<strong>二十一萬好貴阿！</strong><br />
+但如果巴菲特名言「反市場操作」不理解，其實很難靠投資幫自己加薪的R。<span style="color: #bbbbbb;">(想想如果你在上述的例子的情況中，是否會進場呢？)</span><br />
+而且告訴你一個好消息，<span style="color: #00a5af;">加密貨幣交易和股票一樣是可以不買整數的</span>，也就是說並不是你一定要有二十一萬的倍數才有資格進場。<br />
+所以如果你看完這篇真的有興趣但又不知道怎麼交易，可以開始<a style="color: #cc7b8d;" href="https://www.google.com.tw/search?rlz=1C1LENP_enTW770TW771&amp;ei=jPt1WuXAOYmU0gSn-Zj4AQ&amp;q=%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3+%E4%BA%A4%E6%98%93+%E6%95%99%E5%AD%B8&amp;oq=%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3+%E4%BA%A4%E6%98%93+%E6%95%99%E5%AD%B8&amp;gs_l=psy-ab.3...20905.22056.0.22441.14.9.0.0.0.0.216.781.2j3j1.6.0....0...1c.1j4.64.psy-ab..11.0.0....0.gxEfWHPnngY" target="_blank" rel="noopener">Google相關教學</a>。<br />
+網路上各種教學多到不行，市面上也有各種課程。<br />
+但如果你需要經濟實惠的懶人包，可以參考<a style="color: #00a5af;" href="http://swanky.github.io/cryptocurrency/">史旺基加密貨幣實戰班</a>。<br />
+講師雖然看起來是宅宅工程師，但是具備豐富相關領域知識，且是我最近認識最具備碳結構的人了。如果你去上過一次課，以後不管遇到任何問題都可以各種打擾他，他一定會認真的回答。<br />
+最後希望這篇文章對你有幫助，有任何問題都可以在下方提出，我也會很認真回答你。<img style="width: 20px;" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy.png" /></p>
+</div>
+		</div></div></div></div><p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/swankycourse/">離開學校三個月後上的第一堂課</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/swankycourse/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">343</post-id>	</item>
+		<item>
+		<title>[基本設計原理] 字體選用預備知識</title>
+		<link>https://jiaty.github.io/ZoeHou/books_fonts/</link>
+		<comments>https://jiaty.github.io/ZoeHou/books_fonts/#respond</comments>
+		<pubDate>Sun, 10 Dec 2017 14:37:24 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[BOOKS]]></category>
+		<category><![CDATA[字型]]></category>
+		<category><![CDATA[字體]]></category>
+		<category><![CDATA[差異]]></category>
+		<category><![CDATA[選擇]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=330</guid>
+		<description><![CDATA[<p>你是否也常混用 字體 和 字型 這兩個詞，但其實他們倆是不同的你知道嗎？ 本篇是基本設計原 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/books_fonts/">[基本設計原理] 字體選用預備知識</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<div id="pl-330"  class="panel-layout" ><div id="pg-330-0"  class="panel-grid panel-no-style" ><div id="pgc-330-0-0"  class="panel-grid-cell" ><div id="panel-330-0-0-0" class="so-panel widget widget_media_image panel-first-child" data-index="0" ><img width="1920" height="800" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/12/book_fonts.jpg" class="image wp-image-335  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/12/book_fonts.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/12/book_fonts-300x125.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/12/book_fonts-768x320.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/12/book_fonts-1024x427.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></div><div id="panel-330-0-0-1" class="so-panel widget widget_text" data-index="1" >			<div class="textwidget"><p>你是否也常混用<span style="color: #cc7b8d;"><strong> 字體 </strong></span>和<span style="color: #cc7b8d;"><strong> 字型 </strong></span>這兩個詞，但其實他們倆是不同的你知道嗎？</p>
+<p>本篇是<span style="color: #00a5af;"><strong>基本設計原理</strong></span>的第一篇文章，接下來一共會有四篇文章陸續出爐。<br />
+<span style="color: #00a5af;"><strong>基本</strong></span>的意思就是給所有人看的，設計不僅限於靈感創作，設計是無所不在的。<br />
+因此，本系列文章將會盡量白話的敘述<span style="color: #00a5af;"><strong>每個人都應該懂的基本設計原理</strong></span>，讓大家可以運用到生活中的機會裡。</p>
+</div>
+		</div><div id="panel-330-0-0-2" class="so-panel widget widget_text panel-last-child" data-index="2" ><h3 class="widget-title">設計是無所不在的？</h3>			<div class="textwidget"><p>我們從在學校到出社會，都會有許多需要製作文書資料的機會。<br />
+大多數人理應已有無數次的機會也經過無數次練習，但為何<strong>難懂</strong>(理解)<strong>又難看</strong>(辨讀)的文件、簡報、文宣、海報&#8230;等都還是隨處可見？</p>
+<p><span style="color: #bbbbbb; text-decoration:line-through;">因為你只想到自己！</span><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/001-sick.png" alt="" width="20" height="20" /></p>
+<p>這不是自我滿足，而是應該為你的受眾著想。<br />
+與此相關知識和技巧不勝枚舉，但整個過程最終都是要朝 <span style="color: #cc7b8d; font-weight: bold;">效率、正確地傳達資訊</span> 目標前進。<br />
+<span style="color: #bbbbbb; display: none;">如果看過我的另一篇<a style="color: #bbbbbb;" href="https://jiaty.github.io/ZoeHou/books_layoudesign/" target="_blank" rel="noopener">版面設計簡單理解</a>，恭喜你，你可以光速進入本主題。<img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/020-happy-1.png" alt="happy" width="20" height="20" /></span><br />
+<span style="color: #bbbbbb;">進入主題&#8230;</span></p>
+</div>
+		</div></div></div><div id="pg-330-1"  class="panel-grid panel-no-style" ><div id="pgc-330-1-0"  class="panel-grid-cell" ><div id="panel-330-1-0-0" class="so-panel widget widget_text panel-first-child" data-index="3" ><h3 class="widget-title">字體</h3>			<div class="textwidget"><p><strong>文字依據一致的特徵或樣式分類</strong> 而為 <span style="color: #00a5af; font-weight: bold;">字體</span></p>
+<p>基本中文字可略分為兩大類：<strong>明體</strong>、<strong>黑體</strong></p>
+<p><img class="aligncenter size-full wp-image-252" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/LayoutDesign2-e1511684887792.png" alt="" width="800" height="180" /><br />
+字體會決定資料的<span style="color: #cc7b8d; font-weight: bold;">印象</span>和<span style="color: #cc7b8d; font-weight: bold;">易讀性</span>，因此在選用字體之前，<strong>先了解字體的特性</strong>，才能<strong>在合適之處有效的運用文字</strong>。</p>
+<p><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/arrows.png" alt="" width="20" height="20" /><a style="color: #c74246; font-weight: bold; text-decoration: underline;" href="https://jiaty.github.io/ZoeHou/books_layoudesign/" target="_blank" rel="noopener"> 點此深入了解明體和黑體差異</a></p>
+</div>
+		</div><div id="panel-330-1-0-1" class="so-panel widget widget_text" data-index="4" ><h3 class="widget-title">字型</h3>			<div class="textwidget"><p><strong>在電腦內安裝使用的各種文字類型</strong> 則稱為 <span style="color: #00a5af; font-weight: bold;">字型</span></p>
+<p>因此，<span style="color: #cc7b8d; font-weight: bold;">字體會包含眾多字型</span>。</p>
+<p>如果還不太明白的，看看下面的例子→<br />
+常見<span style="color: #00a5af;">明體</span>有包含：Adobe明體、細明體、新細明體、源樣明體、華康超明體等。<br />
+<img class="aligncenter size-full wp-image-252" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/明體.png" alt="" width="800" height="180" /><br />
+常見<span style="color: #00a5af;">黑體</span>有包含：Adobe黑體、微軟正黑體、華康超黑體、Microsoft JhengHei、Segoe UI等。<br />
+<img class="aligncenter size-full wp-image-252" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/黑體.png" alt="" width="800" height="180" /></p>
+</div>
+		</div><div id="panel-330-1-0-2" class="so-panel widget widget_text panel-last-child" data-index="5" ><h3 class="widget-title">字型家族</h3>			<div class="textwidget"><p>文字可再依不同粗細細分為不同種類，同一種字型可能包含粗細不同的樣式。<br />
+<strong>集合各種不同粗細程度的單一字型</strong>，即為<span style="color: #00a5af; font-weight: bold;">字型家族</span>(font-family)。<br />
+<img class="aligncenter size-full wp-image-252" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2018/02/字型家族.png" alt="" width="800" height="180" /><br />
+<span style="display: none;">理解完先備知識，在進入字體選用主題前，<span style="color: #cc7b8d; font-weight: bold;">易讀性</span>是一大重點課題。</span><br />
+最後補充選用字體的重要知識 <span style="color: #cc7b8d; font-weight: bold;">易讀性</span></p>
+</div>
+		</div></div></div><div id="pg-330-2"  class="panel-grid panel-no-style" ><div id="pgc-330-2-0"  class="panel-grid-cell" ><div id="panel-330-2-0-0" class="so-panel widget widget_text panel-first-child" data-index="6" ><h3 class="widget-title">易讀性 關鍵三要素</h3>			<div class="textwidget"><p>文字與文章的易讀性是由<span style="color: #00a5af; font-weight: bold;">可讀性</span>、<span style="color: #00a5af; font-weight: bold;">顯著性</span>、<span style="color: #00a5af; font-weight: bold;">判讀性</span>三大要素所組成。</p>
+<p><span style="color: #00a5af; font-weight: bold; padding-left: 20px;">可讀性</span>：文章的易讀程度，也就是指文章或字詞是否能被順暢的閱讀？</p>
+<p><span style="color: #00a5af; font-weight: bold; padding-left: 20px;">顯著性</span>：文字的明顯程度，也就是指文章或字詞是否足夠明顯？</p>
+<p><span style="color: #00a5af; font-weight: bold; padding-left: 20px;">判讀性</span>：文字是否容易被誤讀 錯讀？</p>
+<p>不同的字體具備不同程度的三大易讀性元素，因此根據不同情境需求來做選用，是字體選用的核心所在。</p>
+<p>究竟字體字型又可細分多少細節？ 彼此在易讀性三元素佔據的比例為何？ 實際情境又該如何選用？</p>
+<p><span style="color: #bbbbbb;">讓我們下集待續&#8230;</span><br />
+<span style="display: none;">要做出能夠 <span style="color: #cc7b8d; font-weight: bold;">有效率 正確的傳達資訊</span> 的設計，就是要<span style="color: #cc7b8d; font-weight: bold;">為閱讀者著想</span> 並 <span style="color: #cc7b8d; font-weight: bold;">傳達溝通的規矩</span>。<br />
+但遵守下列相關規矩並不是指限制設計的自由，本文所指的注意事項是在任何情況下都需要注意的<span style="color: #00a5af; font-weight: bold; padding-left: 20px;">基本原則</span>。<br />
+接下來將列舉幾個常見情境，並敘述各情境選用字體的注意事項，以利各位打造字體選用基礎。</span></p>
+</div>
+		</div><div id="panel-330-2-0-1" class="so-panel widget widget_text panel-last-child" data-index="7" ><div class="book_fonts panel-widget-style panel-widget-style-for-330-2-0-1" ><h3 class="widget-title">簡報</h3>			<div class="textwidget"><p>公告 投影片</p>
+<p><span style="color: #cc7b8d; font-weight: bold;">red</span><br />
+<span style="color: #00a5af; font-weight: bold;">blue</span><br />
+<span style="color: #bbbbbb; font-weight: bold;">gray</span></p>
+</div>
+		</div></div></div></div></div><p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/books_fonts/">[基本設計原理] 字體選用預備知識</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/books_fonts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">330</post-id>	</item>
+		<item>
+		<title>透過組合搭配 演譯出自己的風格</title>
+		<link>https://jiaty.github.io/ZoeHou/books_layoudesign/</link>
+		<comments>https://jiaty.github.io/ZoeHou/books_layoudesign/#comments</comments>
+		<pubDate>Sun, 26 Nov 2017 07:07:07 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[BOOKS]]></category>
+		<category><![CDATA[圖像]]></category>
+		<category><![CDATA[平面設計]]></category>
+		<category><![CDATA[文字]]></category>
+		<category><![CDATA[版面設計學]]></category>
+		<category><![CDATA[立刻上手]]></category>
+		<category><![CDATA[美感養成]]></category>
+		<category><![CDATA[色彩]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=216</guid>
+		<description><![CDATA[<p>版面設計，是什麼？ 版面設計指的就是：在某空間上進行配置。 生活中的配置無所不在，所有的目 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/books_layoudesign/">透過組合搭配 演譯出自己的風格</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<div id="pl-216"  class="panel-layout" ><div id="pg-216-0"  class="panel-grid panel-no-style" ><div id="pgc-216-0-0"  class="panel-grid-cell" ><div id="panel-216-0-0-0" class="so-panel widget widget_media_image panel-first-child" data-index="0" ><img width="800" height="456" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/cover0-e1511687589346.jpg" class="image wp-image-261  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/cover0-e1511687589346.jpg 800w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/cover0-e1511687589346-300x171.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/cover0-e1511687589346-768x438.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></div><div id="panel-216-0-0-1" class="so-panel widget widget_text panel-last-child" data-index="1" ><h3 class="widget-title">版面設計，是什麼？</h3>			<div class="textwidget"><p><img class="aligncenter wp-image-221" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/LayoutDesign0-1024x680.png" alt="" width="800" height="531" /></p>
+<p>版面設計指的就是：<strong>在某空間上進行配置</strong>。</p>
+<p>生活中的配置無所不在，所有的目的都是為了讓人類生活更「<span style="color: #cc7b8d;"><strong>容易</strong></span>」。<br />
+而以平面編排設計來說，其目的就是為了讓人「<span style="color: #cc7b8d;"><strong>易於理解</strong></span>」。<br />
+也就是要將元素配置呈現得使人容易了解，只要從這個核心出發，便是具備優秀版面設計的條件了。</p>
+<p>然版面設計不只是要讓人容易理解，其最終<span style="color: #00a5af;"><strong>目標</strong></span>是：<span style="color: #cc7b8d;"><strong>讓觀看者心情動搖！</strong></span></p>
+<p>而為達此目的，該過程中的<span style="color: #00a5af;"><strong>任務</strong></span>會依據：<strong>內容</strong>、<strong>媒體和對象</strong>，而有所不同。<br />
+在這當中有許多的演繹手法，包含：<strong>文字的編排</strong>、<strong>照片的配置</strong>、<strong>配色</strong>等。<br />
+接下來會整理幾個我認為平常比較<span style="color: #00a5af;"><strong>容易被忽略的重點</strong></span>，大家可以做為參考並靈活運用。</p>
+</div>
+		</div></div></div><div id="pg-216-1"  class="panel-grid panel-has-style" ><div class="panel-row-style panel-row-style-for-216-1" ><div id="pgc-216-1-0"  class="panel-grid-cell" ><div id="panel-216-1-0-0" class="so-panel widget widget_text panel-first-child" data-index="2" ><h3 class="widget-title">[版面設計手法] 倒三角形配置</h3>			<div class="textwidget"><p><img class="aligncenter wp-image-243" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/LayoutDesign1.png" alt="" width="200" height="150" /></p>
+<p><span style="color: #cc7b8d;">故意<strong>破壞平衡感</strong>，製造出<strong>緊張感</strong>！</span></p>
+<p>在<span style="color: #00a5af;"><strong>不是太嚴肅</strong></span>的主題中，當<strong>元素較多</strong>時，可利用<strong>大小差異</strong>做成倒三角形構圖。<br />
+藉此故意破壞平衡，讓版面顯現出<strong>動感</strong>並產生適度的緊張感，亦能<strong>整合整體性</strong>。</p>
+</div>
+		</div><div id="panel-216-1-0-1" class="so-panel widget widget_text" data-index="3" ><h3 class="widget-title">[文字編排] 明體(宋體)</h3>			<div class="textwidget"><p>字體庫中總有很多字體，但每次用的總是那幾個，應該是很多人的日常。<img class="alignnone wp-image-163" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/001-sick.png" alt="" width="30" height="30" /><br />
+但<strong>明體</strong>和<strong>黑體</strong>之間，究竟如何取捨？</p>
+<p><img class="aligncenter wp-image-252 size-full" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/LayoutDesign2-e1511684887792.png" alt="" width="800" height="180" /></p>
+<p>一般而言，明體是<strong>豎畫比橫畫粗</strong>的字體，並有<strong>抑揚頓挫</strong>。<br />
+其基本印象是：<span style="color: #00a5af;"><strong>沒有強烈的個性</strong></span>、使人感覺<span style="color: #cc7b8d;"><strong><strong>高雅</strong></strong></span>且<span style="color: #cc7b8d;"><strong><strong>有格調</strong></strong></span>。<br />
+因此，明體一般適合用來展現：有<strong>女人味</strong>、<strong>高雅</strong>、<strong>安定沉靜</strong>的意象。</p>
+<p>雖然因每個時代有不同的潮流，可能進而導致某特定字體被頻繁的應用。<br />
+但實不該因為某個錯誤使用案例，而秉棄某字體，如此地因噎廢食。<br />
+在合適的地方，使用合適的字體，就是設計師該做的事。</p>
+</div>
+		</div><div id="panel-216-1-0-2" class="so-panel widget widget_text panel-last-child" data-index="4" ><h3 class="widget-title">[視覺圖像] 出血剪裁</h3>			<div class="textwidget"><p>一般我們會根據版面的尺寸，來決定照片要處理成什麼大小。<br />
+而其邊界的界線設計，會大大的影響到版面的觀感。<br />
+根據不同的需求，會有不同的邊界設定，在這邊要介紹的是無邊界出血手法。<br />
+<strong>出血剪裁手法</strong>指的是：<span style="color: #cc7b8d;">將照片編排到最大尺寸，延伸到版面的邊緣。</span><br />
+藉此可以<span style="color: #00a5af;"><strong>讓照片的世界觀更強而有力的展現，賦予<span style="color: #cc7b8d;">震撼效果</span>，集中注目度。<br />
+</strong></span>此手法適合元素少的版面配置，如元素較多時，單邊出血裁切手法也可運用。</p>
+<p>當然在內部元素配置上，仍需特別注意一般印刷的相關出血規定(3mm)。</p>
+</div>
+		</div></div></div></div><div id="pg-216-2"  class="panel-grid panel-has-style" ><div class="panel-row-style panel-row-style-for-216-2" ><div id="pgc-216-2-0"  class="panel-grid-cell" ><div id="panel-216-2-0-0" class="so-panel widget widget_media_image panel-first-child panel-last-child" data-index="5" ><img width="300" height="225" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/出血demo1-300x225.jpg" class="image wp-image-272  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/出血demo1-300x225.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/出血demo1-768x576.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/出血demo1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div></div><div id="pgc-216-2-1"  class="panel-grid-cell" ><div id="panel-216-2-1-0" class="so-panel widget widget_media_image panel-first-child panel-last-child" data-index="6" ><img width="300" height="225" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/出血demo0-300x225.jpg" class="image wp-image-271  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/出血demo0-300x225.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/出血demo0-768x576.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/出血demo0.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div></div></div></div><div id="pg-216-3"  class="panel-grid panel-no-style" ><div id="pgc-216-3-0"  class="panel-grid-cell" ><div id="panel-216-3-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="7" ><h3 class="widget-title">[圖像配置] 規則性</h3>			<div class="textwidget"><p>有輕微強迫症的人可能都會放大檢視每個不被對齊的事物。<br />
+在版面配置上當元素多時，物件規律性的呈現當然讓人覺得神清氣爽。<br />
+但規律性指的並不只是把東西井然有序地排整齊而已，還有不同的手法。</p>
+<p><span style="color: #cc7b8d;"><strong>[1] 對齊照片</strong></span></p>
+<p>首先是最基本的對齊，在配置<strong>複數</strong>的照片時，對齊是很重要的。<br />
+不管是<strong>對齊中心點</strong>或<strong>邊線</strong>，都可以表現出<span style="color: #00a5af;"><strong>理性整齊的形象</strong></span>。<br />
+相對而言，刻意製造<span style="color: #cc7b8d;"><strong>不對齊</strong></span>的部分可以營造<span style="color: #cc7b8d;"><strong>動感</strong></span>的效果。<br />
+但是如果不確定對齊與否，反而會形成曖昧不明的狀況讓觀者迷惘不安，需特別注意。</p>
+</div>
+		</div></div></div><div id="pg-216-4"  class="panel-grid panel-has-style" ><div class="panel-row-style panel-row-style-for-216-4" ><div id="pgc-216-4-0"  class="panel-grid-cell" ><div id="panel-216-4-0-0" class="so-panel widget widget_media_image panel-first-child panel-last-child" data-index="8" ><img width="300" height="90" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/對齊1-300x90.jpg" class="image wp-image-284  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/對齊1-300x90.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/對齊1-768x230.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/對齊1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div></div><div id="pgc-216-4-1"  class="panel-grid-cell" ><div id="panel-216-4-1-0" class="so-panel widget widget_media_image panel-first-child panel-last-child" data-index="9" ><img width="300" height="90" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/對齊2-300x90.jpg" class="image wp-image-285  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/對齊2-300x90.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/對齊2-768x230.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/對齊2.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></div></div></div></div><div id="pg-216-5"  class="panel-grid panel-has-style" ><div class="panel-row-style panel-row-style-for-216-5" ><div id="pgc-216-5-0"  class="panel-grid-cell" ><div id="panel-216-5-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="10" >			<div class="textwidget"><p><span style="color: #cc7b8d;"><strong>[2] 律動感</strong></span></p>
+<p>觀者在觀看版面時，若<strong>能看出配置的固定規則性</strong>，則能使其感受到<span style="color: #00a5af;"><strong>安心</strong></span>與<span style="color: #00a5af;"><strong>信賴感</strong></span>。<br />
+因此，當想要適度的展現<span style="color: #cc7b8d;"><strong>舒適的規律動感</strong></span>或讓觀者有<span style="color: #cc7b8d;"><strong>強而有力的印象</strong></span>時，可以在固定的編排中，加入<strong>規則的</strong>交錯反覆配置。<br />
+<img class="aligncenter wp-image-307" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/律動感.jpg" alt="" width="600" height="375" /></p>
+</div>
+		</div></div></div></div><div id="pg-216-6"  class="panel-grid panel-no-style" ><div id="pgc-216-6-0"  class="panel-grid-cell" ><div id="panel-216-6-0-0" class="so-panel widget widget_text panel-first-child panel-last-child" data-index="11" >			<div class="textwidget"><p>以上就是針對版面設計的部分整理，希望對你有所幫助。<img class="alignnone wp-image-137" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy.png" alt="" width="30" height="30" /></p>
+<p>&nbsp;</p>
+<p><span style="color: #adb4ad;">資料來源：</span><br />
+1. <a href="http://www.books.com.tw/products/0010761277" target="_blank" rel="noopener">版面設計學 Flair</a><br />
+2. <a href="http://thestocks.im/" target="_blank" rel="noopener">The Stocks PIXELS</a></p>
+</div>
+		</div></div></div></div><p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/books_layoudesign/">透過組合搭配 演譯出自己的風格</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/books_layoudesign/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">216</post-id>	</item>
+		<item>
+		<title>[LALALAND] 越來越愛你觀後感</title>
+		<link>https://jiaty.github.io/ZoeHou/lalaland/</link>
+		<comments>https://jiaty.github.io/ZoeHou/lalaland/#respond</comments>
+		<pubDate>Sat, 14 Oct 2017 02:53:05 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[MOVIE]]></category>
+		<category><![CDATA[anything goes]]></category>
+		<category><![CDATA[burlesque]]></category>
+		<category><![CDATA[EQ]]></category>
+		<category><![CDATA[lalaland]]></category>
+		<category><![CDATA[mamma mia]]></category>
+		<category><![CDATA[pitch perfect]]></category>
+		<category><![CDATA[中天夢想驛站]]></category>
+		<category><![CDATA[克卜勒]]></category>
+		<category><![CDATA[嘉義女中]]></category>
+		<category><![CDATA[媽媽咪呀]]></category>
+		<category><![CDATA[孫燕姿]]></category>
+		<category><![CDATA[張學友]]></category>
+		<category><![CDATA[林懷民]]></category>
+		<category><![CDATA[歌喉讚]]></category>
+		<category><![CDATA[歌舞劇]]></category>
+		<category><![CDATA[流星下的願]]></category>
+		<category><![CDATA[生活]]></category>
+		<category><![CDATA[舞孃俱樂部]]></category>
+		<category><![CDATA[舞蹈班]]></category>
+		<category><![CDATA[萬事皆可]]></category>
+		<category><![CDATA[許慧欣]]></category>
+		<category><![CDATA[越來越愛你]]></category>
+		<category><![CDATA[關於島嶼]]></category>
+		<category><![CDATA[陳文茜]]></category>
+		<category><![CDATA[雪狼湖]]></category>
+		<category><![CDATA[電影]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=176</guid>
+		<description><![CDATA[<p>我一直都很喜歡舞蹈，大概是因為我高中學校有出色的舞蹈班同學。 每學期欣賞她們成果發表會，都 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/lalaland/">[LALALAND] 越來越愛你觀後感</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/lalaland-1024x576.jpg" alt="lalaland" width="1024" height="576" class="alignnone size-large wp-image-178" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/lalaland-1024x576.jpg 1024w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/lalaland-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/lalaland-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/lalaland.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>我一直都很喜歡舞蹈，大概是因為我高中學校有<strong>出色的舞蹈班同學</strong>。</p>
+<p>每學期欣賞她們<strong>成果發表會</strong>，都是我高中生活的其中一項小幸福。</p>
+<p>加上高中音樂課常常可以透過投影機觀賞知名歌舞劇（歌劇魅影、鐘樓怪人、悲慘世界等），所以我在接觸到現代歌舞劇的時候就一見鍾情了。</p>
+<p>印象中第一次看的歌舞劇電影是Burlesque(舞孃俱樂部) ，那時候我在漫畫影音出租店打工，下班前挑選週末要看的電影是一個小樂趣。<span style="color: #999999;"><del>（如果是隔天早班，還完全可以爽爽看）</del></span></p>
+<p>我記得當時已看過一輪強片，所以抱著試試看的心情借了這部。</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/Dgx1QmSVaRs?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>而且其實大學圖書館也有，我後來忍不住再回味幾次時就是在學校借的<del>，後來打工太常加班也就沒做了</del>。</p>
+<p>再來就是Mamma mia了吧，<a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E6%9B%BC%E9%81%94%C2%B7%E8%A5%BF%E8%80%B6%E5%BC%97%E9%87%8C%E5%BE%B7" target="_blank" rel="noopener">女主角</a>真是正翻，內容也是非常動人好看。</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/CiVnD9i7BpE?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>到較近期是到 Pitch Perfect1, 2(歌喉讚) ，拍了兩集想必大家應該也都耳熟能詳。<span style="color: #999999;">(第三集也即將推出了)</span></p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/ktT1mclBPn0?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>而我想另外一提我特別喜歡到其中一位歌手，她也拍過幾次歌舞劇形式的MV，許慧欣。</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/qzn9YjNRD2Y?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br />
+<iframe src="https://www.youtube.com/embed/X_k3i5KcLMs?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>這兩部年代距離有點大，但是都是經典XD</p>
+<p>有時候我去KTV還會點<a href="https://www.youtube.com/watch?v=X_k3i5KcLMs" target="_blank" rel="noopener">流星下的願</a>來唱，但就屬於非常少共鳴的類型QQ</p>
+<p>回到主題⋯</p>
+<hr />
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/TCXtD59eawc?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>樂來樂愛你LALALAND 得了非常多獎項，所以我才知道它。<span style="color: #999999;"><del>(太常看新聞了XD)</del></span></p>
+<p>真的心血來潮看了之後，整個過程我忍不住一直感嘆：「天啊這個運鏡 天啊這個配色 天啊這個流暢 天啊這個威牙怎麼這麼自然⋯」。</p>
+<p>也剛好我在這個時刻，從畢業到就業的這個區間，我感覺對劇情特別有共鳴。</p>
+<p>但我哭的點卻不是關於這個副主線劇情，更不是主線劇情。</p>
+<p><span style="color: #768f8f;"><strong>當男女主角從電影院離開後，到一個白色建築物裡，跳完舞望遠鏡一個聚焦⋯</strong></span></p>
+<p><span style="color: #768f8f;"><strong>鏡頭稍微往上，天花板一瞬間自然幻化成星空⋯</strong></span></p>
+<p>我不知怎麼的，竟然驚了一瞬，淚就落下了。</p>
+<p>這個感覺有點類似我從前第一次聽孫燕姿的克卜勒，只是時間長短的差別。</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/ppvqjPkQ0BY?rel=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>不知道你們感覺好看或是也像我一樣有特別感動的地方呢？</p>
+<p>最後我想節錄電影裡面我喜歡的<strong>歌詞</strong>與<strong>台詞</strong>，和你們分享。</p>
+<h3>歌詞</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>台詞</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p>來主觀的推薦一下評分好了，整體以我個人的偏好來說，LALALAND我認為推薦指數滿分五顆星的話。</p>
+<p>LALALAND 推薦指數 <img class="alignnone wp-image-184" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-150x150.png" alt="star" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-120x120.png 120w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0.png 512w" sizes="(max-width: 30px) 100vw, 30px" /><img class="alignnone wp-image-184" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-150x150.png" alt="star" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-120x120.png 120w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0.png 512w" sizes="(max-width: 30px) 100vw, 30px" /><img class="alignnone wp-image-184" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-150x150.png" alt="star" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-120x120.png 120w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0.png 512w" sizes="(max-width: 30px) 100vw, 30px" /><img class="alignnone wp-image-184" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-150x150.png" alt="star" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0-120x120.png 120w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star0.png 512w" sizes="(max-width: 30px) 100vw, 30px" /><img class="alignnone wp-image-183" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star-150x150.png" alt="star" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star-120x120.png 120w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/star.png 512w" sizes="(max-width: 30px) 100vw, 30px" /></p>
+<p>我會給四顆星，關於影評的話我就不耍大刀了，總之是好看的電影XD</p>
+<p><a href="https://zh.wikipedia.org/zh-tw/%E6%9E%97%E6%87%B7%E6%B0%91" target="_blank" rel="noopener">林懷民</a>曾說：「<span style="color: #768f8f;">什麼時候大家才會感覺到藝術？平時藝術家就像是在路邊唱小調要錢的乞丐。那行人匆匆，只有在他有心事的時候，他放慢了腳步&#8230;終於他聽到了那乞丐的歌聲。在每個人的生命和生活裏頭，如果需要聽到那歌聲，而沒有那歌聲的時候，那是很大的悲哀。那藝術家&#8230;我想我們就是站在路邊，唱點小調&#8230;</span>」。<span style="color: #999999;"><a href="https://www.youtube.com/watch?v=tej3FqvV7IY" target="_blank" rel="noopener">(關於島嶼)</a></span></p>
+<p>我喜歡看舞蹈表演；我喜歡聽爵士樂、輕音樂，甚至流行樂；我喜歡看內容豐富的電影，甚至紀錄片。</p>
+<p>但為什麼我覺得我喜歡，卻並非一天到晚花非常多時間做我喜歡的事情，現代人可能都會說太忙了沒時間。</p>
+<p>但是當失眠、職業倦怠、沒靈感或沒動力的時候，<span style="color: #00a5af;"><strong>藝術</strong></span>就是這樣一個重要的角色。</p>
+<p>它重新滋潤了我的生命，賦予我活力。</p>
+<p>然而目前為止，很幸運的事情是，我喜歡的事情並不僅止於這些。</p>
+<p>從我的工作中獲取成就感，也是我非常喜歡的事情。</p>
+<p>生活是什麼？每個人都許多不一樣的定義。</p>
+<p>對我而言，<span style="color: #c74246;"><strong>自己以及身邊的人都能幸福快樂，不開心的事情可以在適當的時機地點抒發，那就是好生活</strong></span>。</p>
+<p>&nbsp;</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/lalaland/">[LALALAND] 越來越愛你觀後感</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/lalaland/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">176</post-id>	</item>
+		<item>
+		<title>[畢業後找工作] 面試歷程篇</title>
+		<link>https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%ad%b7%e7%a8%8b/</link>
+		<comments>https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%ad%b7%e7%a8%8b/#comments</comments>
+		<pubDate>Sun, 08 Oct 2017 23:56:02 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[JOB]]></category>
+		<category><![CDATA[104]]></category>
+		<category><![CDATA[博弈科技]]></category>
+		<category><![CDATA[找工作]]></category>
+		<category><![CDATA[教學]]></category>
+		<category><![CDATA[數位所]]></category>
+		<category><![CDATA[新鮮人]]></category>
+		<category><![CDATA[智聯]]></category>
+		<category><![CDATA[準備]]></category>
+		<category><![CDATA[畢業]]></category>
+		<category><![CDATA[碩士]]></category>
+		<category><![CDATA[程式設計]]></category>
+		<category><![CDATA[薪資]]></category>
+		<category><![CDATA[設計]]></category>
+		<category><![CDATA[面試]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=97</guid>
+		<description><![CDATA[<p>一直到我決定工作前，我一共面試了三家公司，全部都是在104接洽的。 先說明我的履歷，我職缺 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%ad%b7%e7%a8%8b/">[畢業後找工作] 面試歷程篇</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interviewProcess.jpg" alt="" width="1920" height="1281" class="alignnone size-full wp-image-96" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interviewProcess.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interviewProcess-300x200.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interviewProcess-768x512.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interviewProcess-1024x683.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<p>一直到我決定工作前，我一共面試了三家公司，全部都是在<a href="https://www.104.com.tw/" target="_blank" rel="noopener">104</a>接洽的。</p>
+<p>先說明我的履歷，我職缺需求寫的有：程式設計師、高階秘書、UI/UX設計師。</p>
+<p>關於我的技能介紹可以參閱我的另一篇文章：<a href="https://jiaty.github.io/ZoeHou/%e4%bd%9c%e5%93%81%e9%9b%86%e5%92%8c%e7%b0%a1%e6%ad%b7%e6%ba%96%e5%82%99/" target="_blank" rel="noopener">作品集與簡歷準備篇</a>。</p>
+<p>進入正題&#8230;</p>
+<p><img class="size-full wp-image-153 aligncenter" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interviewProcess2.jpg" alt="interviewProcess" width="1920" height="300" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interviewProcess2.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interviewProcess2-300x47.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interviewProcess2-768x120.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interviewProcess2-1024x160.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<hr />
+<h2>1. [台北] 某集團旗下新創公司 — JAVA程式設計<span style="color: #ffffff;"><del> 鴻海 智聯運動科技</del></span></h2>
+<p>該公司位於該集團的某個廠區，管控較嚴格所要攜帶的電子產品皆需事先登記，出入也需要換證，未事先登記姓名者無法進入。</p>
+<p>進入後首先給<strong>半小時</strong>獨自在會議室中寫<strong>單面試卷</strong>和<strong>個人資料表</strong>，<strong>面試官</strong>為<strong>約三十多歲的資深工程師</strong>。</p>
+<p>試卷共5題，內容大約是：<strong>資料庫資料表join、JS JQuery Ajax、MVC、基本物理數學(速率)、智力測驗(划船渡河機智題)</strong>。</p>
+<p>個人資料A4雙面填寫，有特別被提出來討論的內容大約有：<strong>個人優缺點、對此職位的未來規劃與期望、培訓紀錄、求職意向</strong>。</p>
+<p>詳談之後才知道，因為是新創公司所以希望可以招<span style="color: #c74246;"><strong>全端工程師</strong></span>，也因此JAVA程式設計的職缺才會考非JAVA的考題。</p>
+<p>由於本次是我第一個面試，所以在問題的應答上明顯的青澀。</p>
+<p>我當時也沒有事先深入研究面試問題應如何應答較佳，所以都是非常誠實的回答所有問題。</p>
+<p>而且有很多問題當下才第一次思考，明顯就被猜到是第一次面試。</p>
+<p>整個過程談論的重點可分為下列幾點：</p>
+<h3><strong>考題</strong></h3>
+<p>針對每題細節討論，為了解我是否具備每一題所指向的能力。</p>
+<p>如果有答題不完全的部分，面試官會細心地進行講解。</p>
+<h3><strong>公司</strong></h3>
+<p>在討論考題時，也針對公司目前情況說明，講解需要這些能力的原因是想收全端工程師。</p>
+<p>但一直強調薪資會關係於個人表現，包含和同事相處與互相幫助、績效表現、積極進取等，其實聽下來範圍很廣泛XD</p>
+<p>結論就是薪水固定<del>難以調整</del>，但是獎金可以控制。</p>
+<h3><strong>職涯</strong></h3>
+<p>透過簡歷作品集與方才填寫的個資表分析完我的專業能力後，讓我選擇想要做全端、前端、後端還是另擇他途專做設計。</p>
+<p>我其實沒想過放棄程式能力，但也沒深入想過自己真正想要哪一種工作生涯。</p>
+<p>為了盡力在此次面試表現完善，也為了爭取到此職缺，我最後回答前端程設。</p>
+<p><span style="color: #00a5af;"><strong>履歷投遞到面試 11天 / 一對一面試 / 總計面試時間 3.5hr / offer get / 約3XK*12+獎金不定</strong></span></p>
+<p>本次面試我收穫非常多，除了有了很好的面試練習之外，結束之後我也好好的思考了自己喜歡做的是什麼。</p>
+<hr />
+<h2>2. [台中] 某博弈科技公司 — 網頁遊戲開發 <span style="color: #ffffff;"><del>數碼博</del></span></h2>
+<p>面試二就在面試一的隔天，連續兩天跑台北台中在加上待業期間作息的不正常，導致我面試完之後暴睡了一天XD</p>
+<p>該公司位於台中某新辦公大樓內，由大門進入後由觸控面板自動發配磁卡通過閘道與電梯。</p>
+<p>由<strong>兩位面試官</strong>進行面試，兩位皆為三十中旬以上的<strong>資深工程師</strong>，但負責的部分不同。</p>
+<p>整個面試過程大約可分為下列幾個大重點：</p>
+<h3>講解職缺需求</h3>
+<p>說明由於想把該公司的遊戲漸漸轉型為html的形式，目的是為了響應行動裝置趨勢以及節省多平台的開發成本。</p>
+<p>也針對公司產品進行介紹和展示，除了博奕遊戲之外還包含金融相關產品。</p>
+<h3>了解專業能力與實作經驗</h3>
+<p>我以作品集為基礎加上其臨時提供Macbook讓我及時連接部分有上線的作品進行講解，藉此來讓他們了解我的專業能力是否符合他們的需求。</p>
+<h3>薪資與未來發展的討論</h3>
+<p>說明由於台灣法規緣故，因此無法自網路上得知太多博弈公司相關訊息。</p>
+<p>台灣有許多博弈相關科技產業，但市場大多在國外。</p>
+<p>由於我先前有大略查了台中薪資普遍較台北低5-10K左右，因此我保守的提出40-45K的要求。</p>
+<p>但事後得知，其實以我的未來潛在貢獻可提出更高的價位，因為博弈相關的利潤皆偏高。</p>
+<p>唯一的缺點就是如果對未來以及國家發展有抱負的人，可能發展性較為不足。</p>
+<p><span style="color: #00a5af;"><strong>履歷投遞到面試 2天 / 二對一面試 / 總計面試時間 1hr / offer get / 約45K*13up+分紅</strong></span></p>
+<p>本次面試完後我順便逛了逢甲商圈，還約了老同學吃了飯。</p>
+<p>很巧的是我的老同學剛換了工作，而且也剛好是博弈科技相關企業 <del><span style="color: #999999;">(台中福利最好的博弈科技公司)</span></del>。<span style="color: #ffffff;"><del>(台中博弈科技產業福利最佳的公司)</del></span></p>
+<p>和老同學聊天了之後，我更清楚地了解自己未來想要的是什麼樣的生活。</p>
+<hr />
+<h2>3. [台北] 某財團法人的數位部門 — 美編設計 <span style="color: #ffffff;"><del>資策會數位所</del></span></h2>
+<p>該主管審閱完我履歷中附加的作品集和簡歷的電子檔後，便回覆說覺得我的資料很清楚並指派一位助理聯絡另一位人員為我面試。</p>
+<p>另外，該主管也指派了一項<a href="https://jiaty.github.io/ZoeHou/%e9%97%9c%e6%96%bc%e9%9d%a2%e8%a9%a6%e5%89%8d%e7%9a%84%e9%a1%8d%e5%a4%96%e6%8c%87%e5%ae%9a%e4%bb%bb%e5%8b%99/" target="_blank" rel="noopener"><strong>額外任務</strong></a>給我，此部分將會於<a href="https://jiaty.github.io/ZoeHou/%e9%97%9c%e6%96%bc%e9%9d%a2%e8%a9%a6%e5%89%8d%e7%9a%84%e9%a1%8d%e5%a4%96%e6%8c%87%e5%ae%9a%e4%bb%bb%e5%8b%99/" target="_blank" rel="noopener">另一篇文章</a>進行說明。</p>
+<p>到了該大樓，首先向保全換證登記後，再進入指定樓層透過分機聯絡該名助理<span style="color: #adb4ad;"><del>(其姓名是我人生中認識的第三個完全同名的人，真是最厲害的菜市場名XD)。</del></span></p>
+<p><span style="color: #adb4ad;"><del>和隨行友人一同被領入一間會議室後，友人便被允許從頭到尾直接坐在一旁當觀眾(我以為會有等待區，結果沒有XD)。</del></span></p>
+<p>整個面試分為兩階段，<strong>第一階段</strong>為一位<strong>非主管級人員</strong>進行面試，但我並無明顯感受出其負責的領域專業，猜測應為一般工程師。<span style="color: #999999;">(最後才知道他是厲害的資深後端工程師)</span></p>
+<p><strong>第二階段</strong>是在第一階段通過之後，另外再約一次時間的面試。</p>
+<p>因為<strong>主管</strong>當時候在國外又卡到連續國定假期，因此兩次中間間隔了15天。<span style="color: #adb4ad;">(挖原來這麼久@@)</span></p>
+<h3>第一階段面試</h3>
+<p>整個面試流程大約分為下列幾個重點：</p>
+<h3>自我介紹</h3>
+<p>面試到了第三家終於遇到要我先自我介紹的面試官了XD</p>
+<p>我首先從我年紀開始講，大概講一下因為我是預研生所以較同屆人少一歲。</p>
+<p>接下來以作品集內容為基礎，開始介紹我所具備的能力和經驗。</p>
+<h3>碩士論文討論</h3>
+<p>面試過程中應是由於公司特性的緣故，他針對我論文做了很多探究。</p>
+<p>也因為這個職缺的需求和我的論文核心(HCI)相符合，所以才花比較多時間討論。</p>
+<h3><a href="https://jiaty.github.io/ZoeHou/%e9%97%9c%e6%96%bc%e9%9d%a2%e8%a9%a6%e5%89%8d%e7%9a%84%e9%a1%8d%e5%a4%96%e6%8c%87%e5%ae%9a%e4%bb%bb%e5%8b%99/" target="_blank" rel="noopener">指定任務驗收</a></h3>
+<p>因為我沒有平板或筆電，因此我將指定任務成果彩印出來帶去，現場以紙本進行討論。</p>
+<h3>本職缺未來工作內容說明</h3>
+<p>104上本職缺說明的工作內容包含：網頁和手機UI、影片拍攝製作、DM設計。</p>
+<p>在最後QA時間我詢問之下，得知本職缺未來將主要先針對公司系統UI進行設計的改善。</p>
+<p>且面試官也很親切的主動告知我未來可能遭遇的困難，以及特別講解未來設計須逐步推出漸進式的設計稿才會利於最後成果的技巧。</p>
+<h3>薪資</h3>
+<p>最後詢問我期望的薪資，讓他可以上報主管，我答了45-50K。</p>
+<p><span style="color: #00a5af;"><strong>履歷投遞到面試 6天 / 一對一面試 / 總計面試時間 1.5hr / opportunity get / 約45-50K</strong></span></p>
+<h3>第二階段面試</h3>
+<p>這天是入秋前的第一個傾盆大雨天，我沒帶傘淋著雨進了公司。</p>
+<p>到了會議室我將濕淋淋的外套掛在其中一張椅子上晾乾，冷氣很強。</p>
+<p>助理倒了一杯<span style="color: #00a5af;"><strong>冷水</strong></span>給我，主管因為車子壞掉在路上耽擱了約半小時。</p>
+<p><span style="color: #999999;"><del>我一直以為主管是女生，因為電子郵件是英文ID，我看著很像女生XD</del></span></p>
+<p><span style="color: #999999;"><del>結果</del></span>面試官是一位四十多歲的男科技人，好像是台大博班某系出來的。</p>
+<p>上次面試官最後表示：<strong><span style="color: #c74246;">第二階段</span>面試主管會進一步說明工作內容還有薪資</strong>，所以我以為他進來就要開門見山談了。</p>
+<p>結果不是，<span style="color: #c74246;"><strong>根本從頭重新來一次</strong></span>，糟糕的是我講得比上次差，主管完全沒有什麼耐心XD</p>
+<p>剛開始我照著上次面試的脈絡打算<strong>再鉅細靡遺地講一次</strong>，殊不知我犯了<strong>大忌</strong>。</p>
+<p>所以當過程中我觀察到主管表情不是微笑或滿意的時候，我都盡量加快腳步挑最重要的講。</p>
+<p>到最後我把我的實作經驗全部大略介紹一次後，主管講了一句：「<span style="color: #00a5af;"><strong>你的本質很好，且各項能力都不錯，但是我抓不到你的重點</strong></span>」。</p>
+<p>他更進一步表示：<strong>這樣的話我找任一個你會的領域專精的人就可以取代你，你的特色是什麼？</strong></p>
+<p>這時我才知道前面三次面試都是非常和藹可親的，都以一種<span style="color: #ffa5af;"><strong>對待新鮮人的親切態度</strong></span>在對我。</p>
+<p>受挫之餘，我馬上意識到我必須說服他，畢竟這確實是我想要的職缺。</p>
+<p>因此我拿了我前面幾次面試都沒帶到的碩士論文出來，然後我說就是這個。<span style="color: #999999;"><del>(現在想想還真是呆XD)</del></span></p>
+<p>我先大略介紹一下碩論，再說明我目前認為自己最熟悉的內容是HCI (Human-Computer-Interaction)。</p>
+<p>結果主管又說：「<span style="color: #00a5af;"><strong>其實UX是很主觀的</strong></span>」，他用科技人的角度評論了自己不熟悉的UI/UX領域<span style="color: #999999;"><del>，講到我有點想揍他</del></span>。</p>
+<p>他大概的意思就是：<span style="color: #c74246;"><strong>如果只是熟UX，我覺得我們可能不需要。</strong><span style="color: #999999;"><del>(WTF你確定？)</del></span></span></p>
+<p>雖然他那樣講，但畢竟態度不是很差的，而且我感覺起來他也是有彈性的人。</p>
+<p>因此我再次拿起作品集，我簡述幾個我認為目前最能證明我前端實力的作品，並在最後表示：<strong><span style="color: #c74246;">我是具備前端實作的基本能力，又了解使用者經驗的人才。</span></strong><del><span style="color: #999999;">(缺的等這關過了再練XD)</span></del></p>
+<p>最終他才妥協進入下一個階段，也就是<strong>驗收額外任務</strong>。<a href="https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%8c%87%e5%ae%9a%e4%bb%bb%e5%8b%99/" target="_blank" rel="noopener">(關於任務內容可以在另一篇文章詳閱)</a></p>
+<p><span style="color: #999999;">事實上另一篇文章是我這次面試的前一天才寫的，老實說我如果沒將腦中所想整理成詳細文字出來，我可能就失去這個offer了。</span></p>
+<p>我將任務的設計理念整理成一張A4紙，因為我沒有平板或筆電，所以需要呈現的東西我都紙本彩印出來。<span style="color: #999999;"><del>(7-11一張10元真是搶錢QQ)</del></span></p>
+<p>我把每一個設計理念和細節一一說明清楚，每一步都是有原因有理論支持的，都不是主觀判定任意設計的。</p>
+<p>根據我的觀察，講解設計理念不到1/4，主管就已經被我說服了。<span style="color: #999999;">(YES! 終於R)</span><img class="alignnone wp-image-188" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/020-happy-1-150x150.png" alt="happy" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/020-happy-1-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/020-happy-1-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/020-happy-1-120x120.png 120w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/020-happy-1.png 512w" sizes="(max-width: 30px) 100vw, 30px" /></p>
+<p>而後他回饋我一點東西，他大約的意思就是：<span style="color: #00a5af;"><strong>未來實際做了之後應該從CP值最高的地方先改起，像這樣大幅度變動可行性不高。</strong></span></p>
+<p>最後，他提出了兩個職缺讓我選擇，一個是在這個公司內安穩地做，另一個是先待這明年到他新公司去。</p>
+<p>接下來當然是各種新公司的理解，還有我腦袋的瘋狂運轉。</p>
+<p>我先講一下我自己，我是一個喜歡變化和挑戰的人。<del><span style="color: #999999;">(如果玩遊戲，我喜歡打新關卡，不喜歡刷素材)</span></del></p>
+<p>但我有一個致命的缺點，我有點完美主義和潔癖，也是就是說：大陸的<span style="color: #c74246;"><strong>且行且走</strong></span>理念我非常需要學習。</p>
+<p>而關於目前的職涯規劃：</p>
+<p>短時間內，我希望自己可以在不嚴重危害健康的情況下，盡量充實自己。</p>
+<p>長時間來說，我希望自己可以成為一個厲害且快樂的人，並賺到滿意的<strong>錢</strong>。</p>
+<p>所以呢，結論是我選了新公司那邊，雖然事後我覺得自己當下有點暈頭，但是希望選的不會太差XD</p>
+<p>原本我面試的這個職缺是我想要的原因是：我喜歡這個<strong>環境</strong>可以<span style="color: #c74246;"><strong>學</strong></span>東西，而且也不會太累可以另外賺更多錢<span style="color: #999999;"><del>(這部分就比較不一定)</del></span>。</p>
+<p>如果新公司的話<strong>會比較累</strong>，但是可以<strong>學更多</strong>東西。<span style="color: #999999;"><del>(前提是新公司不失敗的話XD)</del></span></p>
+<p>兩邊都有各自的<strong>風險</strong>，但人生就是一連串不斷的決定。</p>
+<p>我選擇了什麼，我就要面對什麼。</p>
+<p>接下來11/6開始報到工作，未來如何，未來見分曉了<img class="alignnone wp-image-137" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-150x150.png" alt="" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy.png 512w" sizes="(max-width: 30px) 100vw, 30px" /></p>
+<p><span style="color: #00a5af;"><strong>面試階段一到二 15天 / 一對一面試 / 總計面試時間 2hr / offer get / 約43K*13 (600K/年)</strong></span></p>
+<p><span style="color: #999999;">補充：因為主管當時出國，又剛好遇到國定連續假期，所以中間隔了半個月時間。</span></p>
+<hr />
+<p>總結來說，我根據自己的面試經驗整理出下列幾點面試需要注意的重點：(圈圈代表需要做的；叉叉代表須注意不能做的)</p>
+<h3>[O] 了解自己</h3>
+<p>這真的是最重要也最基本的事情，有看另一篇文章<a href="https://jiaty.github.io/ZoeHou/%e4%bd%9c%e5%93%81%e9%9b%86%e5%92%8c%e7%b0%a1%e6%ad%b7%e6%ba%96%e5%82%99/" target="_blank" rel="noopener">資料準備篇</a>的人更應該知道，和製作任何有關自己的資料一樣，了解自己整理自己都是最基本且重要的部分。</p>
+<p>要清楚自己的能力目前到哪邊並且知道自己喜歡或是想要的是什麼，才能為自己的人生做規劃，因為決定自己的工作就是人生規劃的其中一個關鍵部分。</p>
+<h3>[O] 清楚產業相關知識</h3>
+<p>不管所欲從事的工作是否與求學專業相同，做什麼就應該要像什麼。</p>
+<p>事先了解與該產業相關的知識是很重要的，至少也應該仔細閱讀職缺上所提出的需求，審視自己是否符合。</p>
+<h3>[O] 隨時加強學習</h3>
+<p>如果想要某個職缺，但是自己有幾項需求不符合的話，盡快擬定甚至開始執行加強計畫。</p>
+<p>不是離開學校就停止學習了，離開學校才更應該好好發揮自我學習的這項技能。</p>
+<h3>[X] 不久留某職位</h3>
+<p>要爭取某項職缺就代表真的想要做那個工作了，就算未來有創業或是往其他企業發展的打算，也不能在面試過程中表露出來。</p>
+<p>我曾聽過某面試官說：「如果說打算學完想學的就想走人了，那說白了就不必浪費彼此時間了。」</p>
+<p>因此，投遞履歷答應前往面試的話，便等於有意在該公司做該工作，這樣對人力資源市場來說才是比較好的現象。</p>
+<h3>[X] 不重視隱私保密</h3>
+<p>對於先前工作過的公司內部相關機密資料不應毫不避諱的透漏，即便離開該公司也應為其著想。</p>
+<h3>[X] 講壞話</h3>
+<p>肆無忌憚地向面試官坦露任何其他的壞話是非常不好的，就算是平日的人際關係也不應如此。</p>
+<p>其實與上一點一樣影射效應會造成許多不好的影響，多一點同理心都是比較好的。</p>
+<hr />
+<p>以上就是我畢業後到就業前的面試經驗分享，希望你有找到你想要的資訊。</p>
+<p>有任何問題都可以在下方回應處提問，我都會盡力回答，留下e-mail可以更容易接收到回復訊息哦。<img class="alignnone wp-image-137" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-150x150.png" alt="" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy.png 512w" sizes="(max-width: 30px) 100vw, 30px" /></p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%ad%b7%e7%a8%8b/">[畢業後找工作] 面試歷程篇</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%ad%b7%e7%a8%8b/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">97</post-id>	</item>
+		<item>
+		<title>[畢業後找工作] 面試前的額外指定任務</title>
+		<link>https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%8c%87%e5%ae%9a%e4%bb%bb%e5%8b%99/</link>
+		<comments>https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%8c%87%e5%ae%9a%e4%bb%bb%e5%8b%99/#respond</comments>
+		<pubDate>Sun, 08 Oct 2017 23:50:19 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[JOB]]></category>
+		<category><![CDATA[104]]></category>
+		<category><![CDATA[MD]]></category>
+		<category><![CDATA[SAO]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[找工作]]></category>
+		<category><![CDATA[教學]]></category>
+		<category><![CDATA[數位所]]></category>
+		<category><![CDATA[新鮮人]]></category>
+		<category><![CDATA[準備]]></category>
+		<category><![CDATA[畢業]]></category>
+		<category><![CDATA[碩士]]></category>
+		<category><![CDATA[美編設計]]></category>
+		<category><![CDATA[薪資]]></category>
+		<category><![CDATA[設計]]></category>
+		<category><![CDATA[資策會]]></category>
+		<category><![CDATA[面試]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=94</guid>
+		<description><![CDATA[<p>其實在到達面試前是需要克服重重關卡的，但如果把他當作打塔任務一關一關解過去，其實就不那麼困 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%8c%87%e5%ae%9a%e4%bb%bb%e5%8b%99/">[畢業後找工作] 面試前的額外指定任務</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/mailTask.jpg" alt="" width="1920" height="1281" class="alignnone size-full wp-image-93" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/mailTask.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/mailTask-300x200.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/mailTask-768x512.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/mailTask-1024x683.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<p>其實在到達面試前是需要克服重重關卡的，但如果把他當作打塔任務一關一關解過去，其實就不那麼困難和挫折了。</p>
+<p>我最近在玩<a href="https://itunes.apple.com/tw/app/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F%E4%B8%80%E8%A8%98%E6%86%B6%E9%87%8D%E7%B5%84/id1192552786?l=zh&amp;mt=8" target="_blank" rel="noopener">SAO MD</a>這款手遊，在裡面不算很強<img class="alignnone wp-image-163" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/001-sick-150x150.png" alt="" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/001-sick-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/001-sick-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/001-sick-120x120.png 120w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/001-sick.png 512w" sizes="(max-width: 30px) 100vw, 30px" /><span style="color: #adb4ad;">(幾乎沒有課金，我只買了首儲NT$30的小禮包而已)</span></p>
+<p>所以如果不和遊戲裡的各位<strong>課長大課長</strong>一起比較的話，我想我操作至少算中等了吧<span style="color: #adb4ad;">(排名賽大約在30-50名)</span><img class="alignnone wp-image-162" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/014-laughing-150x150.png" alt="" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/014-laughing-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/014-laughing-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/014-laughing-120x120.png 120w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/014-laughing.png 512w" sizes="(max-width: 30px) 100vw, 30px" /></p>
+<p><span style="color: #adb4ad;"><del>阿差點離題，</del></span>遊戲中每次出新的任務時，我都會花很多時間自己熟悉BOSS的攻擊模式，失敗重來少說都幾十次起跳。</p>
+<p>所以說面試有任何機會可以嘗試都要盡量把握，每一次大小挫折都是下次的成功累積。</p>
+<p>每次被BOSS擊飛或不小心被K死，下次就知道原來還有這招，可以嘗試應對。</p>
+<p><span style="color: #adb4ad;">進入正題&#8230;</span></p>
+<hr />
+<p>我在<a href="https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%ad%b7%e7%a8%8b/" target="_blank" rel="noopener">先前一篇分享面試歷程的文章</a>中有提到，到第三家公司面試前，有被指派一項額外任務。</p>
+<h2>介面的重新設計</h2>
+<p>該主管透過電子郵件寄給我一張圖，該畫面是<span style="color: #c74246;"><strong>某能源監控系統的截圖</strong></span>。</p>
+<p>其要求我針對這個介面重新做設計，除此之外便無任何其他要求和指示了。</p>
+<p>這個任務可以非常自由發揮，但不是自己覺得好看就好，屆時必須說得出一番道理才有用。</p>
+<p>首先來看看原始圖長這樣：</p>
+<p>&nbsp;</p>
+<p><img class="aligncenter wp-image-214" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/InEMS_old.jpg" alt="" width="800" height="450" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/InEMS_old.jpg 1366w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/InEMS_old-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/InEMS_old-768x432.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/InEMS_old-1024x576.jpg 1024w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>這一看就一副Windows XP風格(?)，且有濃濃的工程師味道。<span style="color: #adb4ad;">(從第三列的路徑顯示欄位就可以看出端倪)</span></p>
+<p>如果照一般介面設計流程來說，應該先從需求開始分析訪談再著手製作雛形，然後接續一直在設計與再設計之間循環<span style="color: #adb4ad;">(關於設計相關理論和方法以後會有更多文章分享)</span>。</p>
+<p>但是因為現在沒有那麼多資源可以取得，自由發揮就是有些部分可以自己先假設，只要方向對有設計的概念基本就OK了。</p>
+<p>所以一樣照設計流程來，但內容利用蒐集的資料或是一般性知識進行假設。</p>
+<p>因此，根據HCI(人機介面互動設計)流程，本次任務實作過程分為下列兩個步驟：</p>
+<h3>確認並建立需求</h3>
+<p>能源監控系統 → 能源 + 監控</p>
+<p><span style="color: #cc7b8d;"><strong>能源</strong></span></p>
+<p>說到能源就會和綠色聯想在一起，尤其是這幾年由於氣候變遷導致世界環保意識的抬頭。</p>
+<p>在<strong>色彩學</strong>中，<span style="color: #00a5af;"><strong>冷色系的藍色和綠色會給人冷靜清爽的感覺</strong></span>，而使用此系統的人確實需要腦袋清楚的做相關決策。</p>
+<p>原介面主要以藍色系為主，保留原概念加上綠色概念做部分<strong>調和</strong>和<strong>點綴</strong>，如此便初步產出<strong>系統整體識別設計</strong>。</p>
+<p>但這樣還不夠，要成功製造出識別，LOGO設計是一個非常關鍵的重點。<span style="color: #adb4ad;">(關於<a href="https://zh.wikipedia.org/wiki/%E4%BC%81%E4%B8%9A%E8%AF%86%E5%88%AB" target="_blank" rel="noopener">CIS企業識別系統相關初步認識可以看這邊</a>，以後也會有深入介紹的文章)</span></p>
+<p>因此我將LOGO簡單做了變化，保留主要的內容在字體和葉片做了改變，以拉抬系統整理的質感。</p>
+<p>而LOGO中文字使用的 Alegreya 是一款有稜有角的字型，但又不會過於剛硬，可塑造出系統正式嚴肅的形象且呼應綠色的清爽。</p>
+<p><span style="color: #cc7b8d;"><strong>監控</strong></span></p>
+<p>監控在辭典中的<a href="http://twdict.lookup.tw/%E7%9B%A3%E6%8E%A7.html#.Wd44cmiCyUk" target="_blank" rel="noopener">解釋</a>為：透過儀表板了解控制目標的工作情況。</p>
+<p>因此，本系統應為<strong>一目瞭然的儀表板介面</strong>，讓使用者可以隨時以最快的速度、最短的時間了解系統所提供的情況。</p>
+<p>原介面做到的唯一努力是透過粗大色澤明顯的數值，讓使用者了解目前狀態。</p>
+<p>然而各個設備的名稱卻需花費時間觀看理解，並且龐大的紫色網底除了分隔不同欄位以外無任何有效的作用，甚至會影響標題文字的閱讀。</p>
+<p><span style="color: #adb4ad;"><del>(這些當然是我個人根據一般觀念所做的分析，實際嚴謹應該做調查和訪談才能得結論)</del></span></p>
+<p>本系統中包含許多數值、狀態以及功能的顯示，根據許多研究或市場實證結果都證實資料的視覺化可以有效的幫助使用者理解資料內容。<span style="color: #adb4ad;">(<a href="https://www.google.com.tw/search?q=%E5%9C%96%E8%A1%A8+%E5%A5%BD%E8%99%95&amp;oq=%E5%9C%96%E8%A1%A8+%E5%A5%BD%E8%99%95&amp;gs_l=psy-ab.3..0i30k1.898474.902044.0.902671.22.19.3.0.0.0.146.1544.14j5.19.0....0...1.1j4.64.psy-ab..2.7.426...0.0.Dan9jGKTcyM" target="_blank" rel="noopener">初步可參閱此</a>)</span></p>
+<p>因此，我先將汽車<span style="color: #c74246;"><strong>儀表板</strong></span>的概念移植過來作為<strong>數值監控</strong>使用，搭配<strong><span style="color: #c74246;">顏色</span>顯示狀態</strong>ON/OFF或ERROR，再將<strong>功能按鈕<span style="color: #c74246;">放大</span></strong><span style="color: #adb4ad;">(<a href="http://pansci.asia/archives/31360" target="_blank" rel="noopener">費茲定律</a>)</span>。</p>
+<p>最後，我再將<strong>選單與路徑顯示合併</strong>，透過<span style="color: #c74246;"><strong>凸顯目前所在位置</strong></span>來讓使用者了解<strong>路徑關係</strong>。</p>
+<h3>發展符合需求的設計方案</h3>
+<p>有了設計概念後，便是透過繪圖軟體製作出設計圖稿。</p>
+<p>在這邊我使用Adobe PS來製作圖稿，CC版本後可連結色彩資料庫功能我覺得非常便利。<span style="color: #adb4ad;">(<a href="https://color.adobe.com/" target="_blank" rel="noopener">Adobe Color CC</a>)</span></p>
+<p>最終，發展出的新版介面長這樣：</p>
+<p><img class="aligncenter wp-image-206" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/InEMS_new-1024x576.jpg" alt="" width="800" height="450" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/InEMS_new-1024x576.jpg 1024w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/InEMS_new-300x169.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/11/InEMS_new-768x432.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>當然如果套用到實際工作上，<strong>是否能實現如果畫面</strong>或是這個畫面<strong>是否真正符合使用性</strong>以及<strong>高滿意度</strong>都是需要經過<span style="color: #c74246;"><strong>評測</strong></span>的。</p>
+<p>並且如果有<a href="https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%ad%b7%e7%a8%8b/" target="_blank" rel="noopener">參閱我另一篇面試歷程文章</a>的人應該也會看到，後續實際執行此類工作時，會遭遇到許多困難和挑戰。</p>
+<p>設計這條漫漫長路，我有大白貓陪伴並不孤單。<img class="alignnone wp-image-169" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/019-happy-2-150x150.png" alt="love" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/019-happy-2-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/019-happy-2-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/019-happy-2-120x120.png 120w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/019-happy-2.png 512w" sizes="(max-width: 30px) 100vw, 30px" /><span style="color: #adb4ad;">(之後也會有介紹我家貓咪的文章XD)</span></p>
+<p>但我知道我還有很長的路要走，我需要持續不斷的精進自我，才能在這條路持續不斷走下去。</p>
+<hr />
+<p>以上就是我面試前被指派的額外任務的分享，希望可以提供你做相關參考。</p>
+<p>如果有任何問題都可以在下面回響的地方提問，我都會盡力回答。<img class="alignnone wp-image-137" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-150x150.png" alt="" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy.png 512w" sizes="(max-width: 30px) 100vw, 30px" /></p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%8c%87%e5%ae%9a%e4%bb%bb%e5%8b%99/">[畢業後找工作] 面試前的額外指定任務</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/%e9%9d%a2%e8%a9%a6%e6%8c%87%e5%ae%9a%e4%bb%bb%e5%8b%99/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">94</post-id>	</item>
+		<item>
+		<title>[畢業後找工作] 作品集和簡歷準備篇</title>
+		<link>https://jiaty.github.io/ZoeHou/%e4%bd%9c%e5%93%81%e9%9b%86%e5%92%8c%e7%b0%a1%e6%ad%b7%e6%ba%96%e5%82%99/</link>
+		<comments>https://jiaty.github.io/ZoeHou/%e4%bd%9c%e5%93%81%e9%9b%86%e5%92%8c%e7%b0%a1%e6%ad%b7%e6%ba%96%e5%82%99/#respond</comments>
+		<pubDate>Sun, 08 Oct 2017 20:57:29 +0000</pubDate>
+		<dc:creator><![CDATA[Hou JiaRou]]></dc:creator>
+				<category><![CDATA[JOB]]></category>
+		<category><![CDATA[作品集]]></category>
+		<category><![CDATA[履歷]]></category>
+		<category><![CDATA[找工作]]></category>
+		<category><![CDATA[教學]]></category>
+		<category><![CDATA[新鮮人]]></category>
+		<category><![CDATA[準備]]></category>
+		<category><![CDATA[畢業]]></category>
+		<category><![CDATA[碩士]]></category>
+		<category><![CDATA[簡歷]]></category>
+		<category><![CDATA[資管]]></category>
+		<category><![CDATA[面試]]></category>
+
+		<guid isPermaLink="false">https://jiaty.github.io/ZoeHou/?p=71</guid>
+		<description><![CDATA[<p>2017年全球景氣正在復甦，自金融海嘯後第一次有這樣子的榮景。 自大三以來持續觀察景氣與職 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/%e4%bd%9c%e5%93%81%e9%9b%86%e5%92%8c%e7%b0%a1%e6%ad%b7%e6%ba%96%e5%82%99/">[畢業後找工作] 作品集和簡歷準備篇</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interview-1.jpg" alt="" width="1920" height="1281" class="alignnone size-full wp-image-75" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interview-1.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interview-1-300x200.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interview-1-768x512.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/interview-1-1024x683.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<p>2017年全球景氣正在復甦，自金融海嘯後第一次有這樣子的榮景。</p>
+<p>自大三以來持續觀察景氣與職缺的我，原以為在這個時機<span style="color: #a1b0b0;"><del>找工作應當是一件輕鬆容易的事情</del></span>。</p>
+<p>殊不知現實並非如此… <span style="color: #adb4ad;">(NO~~~)</span></p>
+<p>距離我將各大數字求職網的履歷填妥的時間已過去一個月，然而卻<span style="color: #c74246;">一直未有好的回應</span>，也加上我並未在畢業前就開始接洽面試。</p>
+<p>因此，在<span style="color: #c74246;">畢業後一個多月</span>的現在，我仍是<span style="color: #c74246;">無業遊民</span>一枚&#8230;</p>
+<p>面對來自四面八方的各種<strong>詢<span style="color: #adb4ad;">(ㄘˋ)</span>問<span style="color: #adb4ad;">(ㄊㄢˋ)</span></strong>，我意識到我必須開始認真積極做找工作的相關準備。</p>
+<hr />
+<p>我首先開始思考<span style="color: #c74246;"><strong>找工作的本質</strong></span>。</p>
+<p>茫茫人海中企業如何能挑選中自己？</p>
+<p>也就是說，要如何讓素未謀面的人覺得我適合某某職缺？</p>
+<p><del>如果沒有後門的話，就</del><strong>只能靠資料說話了！</strong><strong><img class="alignnone wp-image-86 " src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/dataMan-150x150.png" alt="" width="46" height="50" /></strong></p>
+<p>在友人的協助下，我先從調整履歷下手 (包含：職缺所需專業技能、已具備的證照、自傳的修改)。</p>
+<p>可其實我對考照並無特別熱忱，我當下只有：MOS*2、TQC*2、TOEIC775、Maya*1、汽車*1、機車*1。</p>
+<p>所以我必須<strong>拿出作品呼應履歷上列出的技能</strong>才有說服力！</p>
+<p>因此，我便開始了我的作品整理漫長路&#8230; <span style="color: #adb4ad;">(大約為期兩週<del>，</del></span><del><span style="color: #adb4ad;">怎又當了半個月的無業遊民</span></del><span style="color: #adb4ad;">)</span></p>
+<p>&nbsp;</p>
+<p>一直到開始面試之前我所做的準備約可分為下列幾個步驟：</p>
+<p><strong>1. 整理資料</strong> (Most Important!)</p>
+<p><strong>2. 選擇呈現自己的方式 </strong>(簡歷、作品集、GitHub、Pinterest&#8230;)</p>
+<p><strong>3. 釐清規格</strong> (紙本輸出的相關細節須先釐清避免悲劇發生)</p>
+<p><strong>4. 圖檔製作</strong> (使用自己熟悉的軟體)</p>
+<p><strong>5. 送印與溝通</strong></p>
+<p><strong>6. 熟讀成品</strong> (Also Important!)</p>
+<hr />
+<h2><strong>整理資料</strong></h2>
+<p><img class="alignnone size-full wp-image-91" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/files-1.jpg" alt="" width="1920" height="300" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/files-1.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/files-1-300x47.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/files-1-768x120.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/files-1-1024x160.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<p>我個人認為這是最難著手的部分，雖然我平常已有歸類檔案的習<span style="color: #adb4ad;">(ㄐㄧㄝˊ)</span>慣<span style="color: #adb4ad;">(ㄆ一ˋ)</span>，但將所有自己做過的作品複習一次並歸納整理出來實在需要花不少時間。</p>
+<p>如果在求學階段有做過推甄備審資料的人，這個階段應該比較容易上手。</p>
+<p>從大學到研究所沒換過電腦也應該換過硬碟，甚至如果高中職就累積作品的人，檔案整理起來應該更可怕XD</p>
+<p>(流程圖)</p>
+<p>但所謂的整理不只是把自己所有作品拿出來條列而已，從<span style="color: #c74246;"><strong>挑揀、歸納分類</strong><span style="color: #000000;">到</span><strong>敘述自己</strong></span>，都是整理過程需要做的。</p>
+<p>&nbsp;</p>
+<p>我自己<strong>挑選</strong>作品的原則基本上是：<strong>參與度</strong>高、<strong>完整</strong>性高、<strong>創意</strong>性足、參與<strong>競賽</strong>、所需<strong>技術</strong>性高、與<strong>職缺相關</strong>性高、與<strong>未來趨勢相關</strong>性高、實作過程<strong>學習</strong>多。</p>
+<p>(重點圖)</p>
+<p>在<strong>分類</strong>上我以<strong>作品的形式</strong>做分類，包含：網站、APP、影片、圖像。</p>
+<p>而為了讓第一階段接收的人快速認識我<span style="color: #adb4ad;">(避免他們太累或懶得看)</span>，我在作品集中使用很少量的文字，並搭配版面設計呈現個人風格。</p>
+<hr />
+<h2> <strong>選擇呈現自己的方式</strong></h2>
+<p><img class="alignnone size-full wp-image-107" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume.jpg" alt="" width="1920" height="300" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume-300x47.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume-768x120.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume-1024x160.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<p>我選擇了兩種方式：1. 簡歷 2. 作品集</p>
+<p>兩者的內容有部分重複<span style="color: #adb4ad;">(皆含自傳與學經歷)</span>，但基本上簡歷目標設定在可以一分鐘內快速瀏覽和理解的濃縮版本。</p>
+<h3>簡歷 A4直式 單面彩印 200磅</h3>
+<p>簡歷所需的內容Google可以找到許多，但大都是包含個人基本資料<span style="color: #adb4ad;">(不必包含敏感個資，如身分證字號與住址)</span>。</p>
+<p>如果需要詳盡個人資料，公司方都會另外提供表格來做填寫並說明用途。</p>
+<p>一般簡歷最常見的都是一張A4紙，白底黑字的表格加上證件照。<img class="alignnone wp-image-109" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/curriculum-150x150.png" alt="" width="50" height="41" /></p>
+<p>但我想以更清晰簡潔的方式呈現我的資料，讓閱讀者可以不需費力的理解內容，以達到一目瞭然的目的。</p>
+<p>因此我做了這些改變：</p>
+<p><strong>1. </strong> 決定好色彩風格和版面大致的配置後，我首先將學歷與工作經歷以直向時間軸做左右的對照。</p>
+<p><img class="aligncenter wp-image-111 size-medium" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_exp-300x300.jpg" alt="學經歷" width="300" height="300" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_exp-300x300.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_exp-150x150.jpg 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_exp.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><strong>2.</strong> 接著我條列出自己熟悉的程式語言和軟體，以計分條的概念做熟悉度的相對呈現。</p>
+<p><img class="aligncenter wp-image-112 size-medium" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_skill-300x191.jpg" alt="Skills" width="300" height="191" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_skill-300x191.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_skill.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p><strong>3.</strong> 最後，為符合整體的風格，我以證件照為基礎繪製個人風格照。</p>
+<p><img class="aligncenter wp-image-120 size-thumbnail" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/JiaRou-150x150.jpg" alt="Jiaty" width="150" height="150" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/JiaRou-150x150.jpg 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/JiaRou-300x300.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/JiaRou.jpg 737w" sizes="(max-width: 150px) 100vw, 150px" /></p>
+<h3>作品集 B5橫式 雙面彩印 封面230磅 內頁180磅<span style="color: #adb4ad;"> </span></h3>
+<p><span style="color: #adb4ad;">(磅數皆約略數<del>，因為我有點忘記了</del>)</span></p>
+<p>作品集包含：<strong>關於我About Me、自傳Autobiography、學經歷Experience、證照Certificate、作品Works </strong>(網站、平板APP、手機APP、影片、圖像設計)</p>
+<p>內容皆以清晰大標題，搭配簡潔文字輔助說明。</p>
+<p><img class="aligncenter wp-image-122" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/workCollection.jpg" alt="作品-網站" width="600" height="422" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/workCollection.jpg 2953w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/workCollection-300x211.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/workCollection-768x541.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/workCollection-1024x721.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>關於自傳，分為求學和實作兩大部分，求學包含大學和研究所，實作條列出幾項重要的作品與相關說明。</p>
+<p><img class="aligncenter wp-image-124 size-large" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/bio-1024x360.jpg" alt="自傳" width="1024" height="360" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/bio-1024x360.jpg 1024w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/bio-300x106.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/bio-768x270.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<hr />
+<h2><strong>釐清規格</strong></h2>
+<p><img class="alignnone size-full wp-image-129" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/print.jpg" alt="" width="1920" height="300" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/print.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/print-300x47.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/print-768x120.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/print-1024x160.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<p>這個部分是很基本的，如果簡歷想輸出A4大小，那麼就應該知道A4紙張規格是210mm*297mm，且應該預留出血。</p>
+<p>出血應該預留多少，一般建議都是3-5mm，避免產生誤差與白邊。<span style="color: #adb4ad;">(<a href="https://zh.wikipedia.org/wiki/%E5%87%BA%E8%A1%80_(%E5%8D%B0%E5%88%B7)" target="_blank" rel="noopener">wiki</a>)</span></p>
+<p><span style="color: #adb4ad;">常見輸出規格可以參考這篇<a href="http://blog.xuite.net/bill/bill/38509200-%E5%B8%B8%E8%A6%8B%E7%9A%84%E8%BC%B8%E5%87%BA%E5%B0%BA%E5%AF%B8%E8%88%87%E5%8E%9F%E7%A8%BF%E8%A3%BD%E4%BD%9C" target="_blank" rel="noopener">文章</a>。</span></p>
+<hr />
+<h2><strong>圖檔製作</strong></h2>
+<p><img class="alignnone size-full wp-image-133" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/computer.jpg" alt="" width="1920" height="300" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/computer.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/computer-300x47.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/computer-768x120.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/computer-1024x160.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<p>由於PS是我最早學的Adobe系列軟體，因此一直到現在我還是較習慣使用PS，本次我便使用PS來製作。<img class="alignnone wp-image-127" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/ps-150x150.png" alt="" width="50" height="50" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/ps-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/ps-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/ps.png 450w" sizes="(max-width: 50px) 100vw, 50px" /></p>
+<p>關於軟體使用的技巧網路上有許多教學，而如何設計後續我也會透過各個案例慢慢分享我微薄的理解。</p>
+<p>最終，我的簡歷和作品集呈現如下：</p>
+<h3>簡歷 (A4單面)</h3>
+<p><img class="aligncenter wp-image-110 size-medium" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_A4-1-212x300.jpg" alt="簡歷" width="212" height="300" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_A4-1-212x300.jpg 212w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_A4-1-768x1086.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/resume_A4-1-724x1024.jpg 724w" sizes="(max-width: 212px) 100vw, 212px" /></p>
+<h3>作品集 (B5橫式翻頁)</h3>
+<p><img class="aligncenter wp-image-66 size-large" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/workCollection_B5-240x1024.jpg" alt="作品集" width="240" height="1024" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/workCollection_B5-240x1024.jpg 240w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/workCollection_B5-70x300.jpg 70w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/workCollection_B5.jpg 564w" sizes="(max-width: 240px) 100vw, 240px" /></p>
+<hr />
+<h2><strong>送印與溝通</strong></h2>
+<p><img class="alignnone size-full wp-image-130" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/talk.jpg" alt="" width="1920" height="300" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/talk.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/talk-300x47.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/talk-768x120.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/talk-1024x160.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<p>如這類的小量印刷品一般影印店皆可輸出，只需將檔案輸出為pdf或jpg檔案，到店裡選好紙質，大致就差不多了。</p>
+<p>可選擇的部分大略包含：紙張規格(大小)、紙的材質(一般、卡紙、紋路紙&#8230;)、磅數、封面加膜(亮、霧)等。<span style="color: #adb4ad;">(詳細說明可參閱<a href="https://www.youprint.com.tw/Web/Comp/Faq_Paper.aspx" target="_blank" rel="noopener">此說明</a>)</span></p>
+<p>由於我是到地方平價小型影印店送印，因此品質並無法很好。</p>
+<p>甚至第一版出來還有嚴重的裝訂歪斜問題，還為此多等一天。</p>
+<p>但因為我有多製作上圖的翻頁示意圖，因此在溝通上並無產生什麼問題。</p>
+<p>進到影印店和店家<strong>說明</strong>自己的<strong>需求</strong>後，<strong>選</strong>好細節<strong>規格</strong>並談好<strong>價錢</strong>後，最後就是<strong>約定時間</strong>和留下<strong>聯絡方式</strong>。</p>
+<p>(流程說明圖)</p>
+<hr />
+<h2><strong>熟讀成品</strong></h2>
+<p><img class="alignnone size-full wp-image-135" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/study.jpg" alt="" width="1920" height="300" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/study.jpg 1920w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/study-300x47.jpg 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/study-768x120.jpg 768w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/study-1024x160.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<p>拿到熱騰騰的成品後或是等待送印的期間，務必針對自己所製作的內容重複複習多次。</p>
+<p>所有細節甚至可能延伸到的任何問題，都是面試甚至面試前可能會被問到的。</p>
+<p>東西做的再好看再清楚，如果一問三不知是會直接影響能否得到offer的結果。</p>
+<p>本篇說明的目的便是希望能為想準備面試的人提供一點點的經驗分享，最終是否能充分展現自我還得靠自己R！</p>
+<hr />
+<p>希望上述資訊可以對你有幫助，如果有任何問題也可以在本文提出，我都會盡力回答。</p>
+<p>本系列還會有其他內容分享，祝福各位都能百戰百勝，順利找到自己屬意的工作。<img class="alignnone wp-image-137" src="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-150x150.png" alt="" width="30" height="30" srcset="https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-150x150.png 150w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy-300x300.png 300w, https://jiaty.github.io/ZoeHou/wp-content/uploads/2017/10/happy.png 512w" sizes="(max-width: 30px) 100vw, 30px" /></p>
+<p>這篇文章 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/%e4%bd%9c%e5%93%81%e9%9b%86%e5%92%8c%e7%b0%a1%e6%ad%b7%e6%ba%96%e5%82%99/">[畢業後找工作] 作品集和簡歷準備篇</a> 最早出現於 <a rel="nofollow" href="https://jiaty.github.io/ZoeHou/">Jiaty</a>。</p>
+]]></content:encoded>
+			<wfw:commentRss>https://jiaty.github.io/ZoeHou/%e4%bd%9c%e5%93%81%e9%9b%86%e5%92%8c%e7%b0%a1%e6%ad%b7%e6%ba%96%e5%82%99/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">71</post-id>	</item>
+	</channel>
+</rss>
